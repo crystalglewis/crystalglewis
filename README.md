@@ -25,7 +25,7 @@ Here are a few of the data analytics projects I’ve worked on that showcase my 
 
 - [**Project 1: Business Analysis - Revenue Growth Models**](https://github.com/YourUsername/claims-analysis): In this project, I examined and cleaned historical sales data using Excel (VLOOKUP, pivot tables and t-tests). Completed exploratory data analysis to identify stretegic scenarios to increase revenue.
 - [**Project 2: Statistical Significance – Pricing Factors**](https://github.com/YourUsername/provider-relations): I examined determining factors that drive housing prices. Data and visualization supported through t-tests on housing price factors showing statistical significance. 
-- [**Project 3: Inventory Analysis – Sales Trends**[Open in Colab]: Created visualization in Python and presented data in PowerPoint to highlight movie trends and suggestions for future productions or possible aquisitions. 
+- [**Project 3: Inventory Analysis – Sales Trends**![Open in Colab](https://colab.research.google.com/drive/1r1KcBGO1A3RaAGprVnIBQwBOegidZNqU): Created visualization in Python and presented data in PowerPoint to highlight movie trends and suggestions for future productions or possible aquisitions. 
 
 
 ## 🛠️ Tools & Technologies
