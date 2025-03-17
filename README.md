@@ -37,7 +37,7 @@ Here are the key tools and skills I have gained throughout my journey:
 Here are a few of the data analytics projects I’ve worked on that showcase my ability to apply my skills in real-world scenarios:
 
 ### **📊Project 1: Business Analysis - Revenue Growth Models**
-🔗 [View Project](https://github.com/crystalglewis/LariatcarprojectCL.xlsx): 
+🔗 [View Project](https://github.com/crystalglewis/LariatcarprojectCL.xlsx)
 -Cleaned and analyzed **historical sales data** using **Excel** (VLOOKUP, Pivot Tables, T-tests).
 -Performed **exploratory data analysis (EDA)** to identify ** strategic revenue growth opportunities**.
 
