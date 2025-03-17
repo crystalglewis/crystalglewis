@@ -78,4 +78,4 @@ Feel free to explore my repositories, and let’s connect to discuss how we can 
 
 ---
 
-*Thank you for visiting my portfolio! I look forward to collaborating with you to drive positive outcomes 
+**Thank you for visiting my portfolio! I look forward to collaborating with you to drive positive outcomes**
