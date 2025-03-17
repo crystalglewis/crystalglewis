@@ -9,7 +9,7 @@ I am passionate about merging my **healthcare experience** with **data analytics
 
 ## **📌 Areas of Interest**
 - **Healthcare Claims Analysis**: Identifying trends, inefficiencies, and cost-saving opportunities in claims data.
-- **Data Analytics & Insights**: Using Python, SQL, Tableau, and Excel to data cleaning, analysis, and visualization of healthcare data.
+- **Data Analytics & Insights**: Using Python, SQL, Tableau, and Excel for data cleaning, analysis, and visualization of healthcare data.
 - **Data Storytelling**: Presenting findings with clear, impactful visualizations to support decision-making. 
 - **Problem Solving**: Applying analytics to **optimize healthcare workflows** and **improve efficiency**.
   
