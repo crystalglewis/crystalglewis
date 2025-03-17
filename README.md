@@ -24,12 +24,12 @@ Here are the key tools and skills I have gained throughout my journey:
 - **Excel**: (Advanced Formulas, Pivot Tables, Power Query, VBA)
 
 ### **Data Visualization & BI Tools**
-**Tableau** & **Power BI** (Dashboard Creation & Reporting)
-**Matplotlib & Seaborn** (Python-based Visualizations)
+- **Tableau** & **Power BI** (Dashboard Creation & Reporting)
+- **Matplotlib & Seaborn** (Python-based Visualizations)
 
 ### **Statistical Analysis & Data Cleaming**
--Hypothesis Testing, Regression Analysis, Data Wrangling, Trend Analysis
--**Healthcare Analytics**: Claims processing, CPT/HCPCS/ICD-11 codes, LOINC codes
+- Hypothesis Testing, Regression Analysis, Data Wrangling, Trend Analysis
+- **Healthcare Analytics**: Claims processing, CPT/HCPCS/ICD-11 codes, LOINC codes
 
 ---
 
