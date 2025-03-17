@@ -38,8 +38,8 @@ Here are a few of the data analytics projects I’ve worked on that showcase my 
 
 ### **📊Project 1: Business Analysis - Revenue Growth Models**
 🔗 [View Project](https://github.com/crystalglewis/LariatcarprojectCL.xlsx)
--Cleaned and analyzed **historical sales data** using **Excel** (VLOOKUP, Pivot Tables, T-tests).
--Performed **exploratory data analysis (EDA)** to identify ** strategic revenue growth opportunities**.
+- Cleaned and analyzed **historical sales data** using **Excel** (VLOOKUP, Pivot Tables, T-tests).
+- Performed **exploratory data analysis (EDA)** to identify ** strategic revenue growth opportunities**.
 
 ---
 
