@@ -3,63 +3,57 @@
 ## About Me
 Hello! I'm **Crystal Lewis**, a results-driven and detail-oriented healthcare professional with over a decade of experience in **healthcare claims analysis, provider relations, and customer service**. 
 
-I have a deep understanding of **healthcare claims processing and member/provider interactions**, enabling me to identify trends and drive impactful improvements in healthcare operations.  Recently, I completed a **Data Analytics Program at Thinkful**, where I developed expertise in **analyzing, interpreting, and visualizing complex datasets**. 
+I have a deep understanding of **healthcare operations and member/provider interactions**, paired with newly developed data analytics skills gained from completing a Data Analytics Program at Thinkful.  My passion lies in merging domain espertise with analytics to uncover insights and drive better decision- making in healthcare. 
 
-I am passionate about merging my **healthcare experience** with **data analytics** to uncover insights and support **data-driven decision-making**.
+
 
 ## **📌 Areas of Interest**
-- **Healthcare Claims Analysis**: Identifying trends, inefficiencies, and cost-saving opportunities in claims data.
-- **Data Analytics & Insights**: Using Python, SQL, Tableau, and Excel for data cleaning, analysis, and visualization of healthcare data.
-- **Data Storytelling**: Presenting findings with clear, impactful visualizations to support decision-making. 
-- **Problem Solving**: Applying analytics to **optimize healthcare workflows** and **improve efficiency**.
+- **Healthcare Claims Analysis**: Identifying trends, uncovering inefficiencies and cost-saving opportunities.
+- **Data Analytics & Insights**: Using Python, SQL, Tableau, and Excel for data cleaning, analysis, and visualization.
+- **Data Storytelling**: Turning complex datasets into clear, actionable insights.
+- **Problem Solving**: Improving workflows through analytics-driven solutions.
   
 ---
 
-## 📈 Skills & Technologies
-Here are the key tools and skills I have gained throughout my journey:
 
-### **Data Analytics & Programming**
-- **Python** (Pandas, Numpy, Matpiotlib, Seaborn)
-- **SQL**: (MySQL, PostegreSQL, SQLite)
-- **Excel**: (Advanced Formulas, Pivot Tables, Power Query, VBA)
+## **🛠️ Skills & Technologies**
+| **Category**   | **Tools & Techniques** |
+|----------------|----------------|
+| **Programming** | Python, (Pandas, Numpy, Matplotlib, Seaborn) SQL, (MySQL, PostgreSQL, SQLite) |
+| **Excel & Automation** | Advanced formulas, Pivot Tables, Power Query, VBA |
+| **Visualization** | Tableau, Power BI, Matplotlib, Seaborn |
+| **Statistical Analysis**:- | Hypothesis testing, regression analysis, trend analysis | 
+| **Healthcare Knowledge** | CPT / HCPCS / ICD - 11 codes, LOINC, claims processing |
 
-### **Data Visualization & BI Tools**
-- **Tableau** & **Power BI** (Dashboard Creation & Reporting)
-- **Matplotlib & Seaborn** (Python-based Visualizations)
 
-### **Statistical Analysis & Data Cleaming**
-- Hypothesis Testing, Regression Analysis, Data Wrangling, Trend Analysis
-- **Healthcare Analytics**: Claims processing, CPT/HCPCS/ICD-11 codes, LOINC codes
 
 ---
 
 ## 📚 Featured Projects
-Here are a few of the data analytics projects I’ve worked on that showcase my ability to apply my skills in real-world scenarios:
 
 
 ### **📉 Project 1: # Healthcare Fraud & High-Cost Claims Analysis
- 🔗 [View Project] [**Healthcare Claims Analysis**](https://public.tableau.com/app/profile/crystal.lewis7397/viz/HealthcareFraudHigh-CostClaimsAnalysis/Healthcare_Claims_Insights?publish=yes): This project analyzes financial patterns and anomalies in healthcare claims, focusing on fraud types and high-cost claims using the NHIS Healthcare Claims Dataset.I identified which fraud types contribute most to financial loss, determine trends in high-cost claims, and explore the age groups most impacted by healthcare fraud.
+ 🔗 [View Project] [**Healthcare Claims Analysis**](https://public.tableau.com/app/profile/crystal.lewis7397/viz/HealthcareFraudHigh-CostClaimsAnalysis/Healthcare_Claims_Insights?publish=yes):
+ Using the NHIS Healthcare Claims Dataset, this project analyzed patterns in fraudulent and high-cost claims to uncover financial risks and demographic trends.
  
-## 🛠 Tools Used
-- **SQL**: Data cleaning, age group classification, fraud and cost aggregations
-- **Tableau**: Interactive visualizations of fraud types, claim cost impact, diagnoses, and age demographics
+**Tools: SQL, Tableau
 
 ## 📊 Key Insights
-- Fraudulent claims made up a significant portion of high-cost cases, especially **phantom billing** and **fake treatments**.
-- The **65+ age group** had the highest volume of claims and also the most high-cost and fraudulent claims.
-- **Epilepsy surgery, infertility treatment, and cosmetic surgery** had the highest average billed amounts among high-cost diagnoses.
-- Fraudulent claims accounted for over **$248 million**, with phantom billing and fake treatment being the most costly.
+- Fraudulent claims (phantom billing, fake treatments) led to losses exceeding $248 million.
+
+- The 65+ age group filed the most high-cost and fraudulent claims.
+
+- Epilepsy surgery, infertility treatment, and cosmetic surgery had the highest billed amounts.
 
 
 ---
 
 ### **📊Project 2: Business Analysis - Revenue Growth Models**
 🔗 [View Project](https://docs.google.com/spreadsheets/d/1HraOeUDySRqMXfh66e9Hlmoow6slrRDr/edit?usp=sharing&ouid=107080210365207288161&rtpof=true&sd=true)
-- Cleaned and analyzed **historical sales data** using **Excel** (VLOOKUP, Pivot Tables, T-tests).
-- Performed **exploratory data analysis (EDA)** to identify **strategic revenue growth opportunities**.
+Analyzed historical sales data to find revenue growth opportunities.
 
-## 🛠 Tools Used
--Excel
+Tools: Excel (VLOOKUP, Pivot Tables, T-tests)
+Highlights: Conducted EDA and provided actionable recommendations for strategic planning.
 
 
 ---
@@ -67,32 +61,22 @@ Here are a few of the data analytics projects I’ve worked on that showcase my 
 
   ### **🎬 Project 3: Inventory Analysis – Sales Trends**
  🔗 [View Project](https://colab.research.google.com/drive/1r1KcBGO1A3RaAGprVnIBQwBOegidZNqU)
-- Analyzed **movie industry sales trends** using **Python**.
-- Created **data visualizations** to showcase box office trends.
-- Delivered **actionable insights** for future production/acquisition strategies.  
-- **Tools Used**: Python (Matplotlib, Pandas), Power BI
+Explored sales trends in the movie industry to support production and acquisition strategies.
 
-   ---
+Tools: Python (Pandas, Matplotlib), Power BI
+Deliverables: Visualized box office trends and provided actionable insights.
 
-## **🛠️ Tools & Technologies**
-| **Category**   | **Tools** |
-|----------------|----------------|
-| **Programming** | Python, SQL |
-| **Data Handling** | Pandas, NumPy |
-| **Visualization** | Tableau, Power BI, Matplotlib, Seaborn |
-| **Excel & Automation**:- | Pivot Tables, Power Query, VBA | 
+
 
 ---
 
 ## 💬 Let's Connect!
-I’m always open to collaborating on **Healthcare Analytics** and **Data-Driven decision-making**, discussing innovative ways to leverage data in healthcare. Whether it’s improving claims processing or using analytics to inform key decisions, I believe data is the key to transformation.
+I'm passionate about healthcare analytics and always open to collaboration or opportunities to turn raw data into meaningful solutions.
 
 - **Email**: [crystal.g.lewis@gmail.com](mailto:your.email@example.com)
 - **LinkedIn**: [www.linkedin.com/in/crystalglewis](https://linkedin.com/in/yourname)
+
   
-
-Feel free to explore my repositories, and let’s connect to discuss how we can turn healthcare data into actionable insights!
-
 ---
+**Thank you for visiting my portfolio! Let’s work together to turn healthcare data into actionable insights.**
 
-**Thank you for visiting my portfolio! I look forward to collaborating with you to drive positive outcomes**
