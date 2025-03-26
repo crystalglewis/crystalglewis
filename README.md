@@ -22,7 +22,7 @@ I have a deep understanding of **healthcare operations and member/provider inter
 | **Programming** | Python, (Pandas, Numpy, Matplotlib, Seaborn) SQL, (MySQL, PostgreSQL, SQLite) |
 | **Excel & Automation** | Advanced formulas, Pivot Tables, Power Query, VBA |
 | **Visualization** | Tableau, Power BI, Matplotlib, Seaborn |
-| **Statistical Analysis**:- | Hypothesis testing, regression analysis, trend analysis | 
+| **Statistical Analysis** | Hypothesis testing, regression analysis, trend analysis | 
 | **Healthcare Knowledge** | CPT / HCPCS / ICD - 11 codes, LOINC, claims processing |
 
 
