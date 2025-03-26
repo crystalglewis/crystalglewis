@@ -36,18 +36,34 @@ Here are the key tools and skills I have gained throughout my journey:
 ## 📚 Featured Projects
 Here are a few of the data analytics projects I’ve worked on that showcase my ability to apply my skills in real-world scenarios:
 
-### **📊Project 1: Business Analysis - Revenue Growth Models**
+
+### **📉 Project 1: # Healthcare Fraud & High-Cost Claims Analysis
+ 🔗 [View Project] [**Healthcare Claims Analysis**](https://public.tableau.com/app/profile/crystal.lewis7397/viz/HealthcareFraudHigh-CostClaimsAnalysis/Healthcare_Claims_Insights?publish=yes): This project analyzes financial patterns and anomalies in healthcare claims, focusing on fraud types and high-cost claims using the NHIS Healthcare Claims Dataset.I identified which fraud types contribute most to financial loss, determine trends in high-cost claims, and explore the age groups most impacted by healthcare fraud.
+ 
+## 🛠 Tools Used
+- **SQL**: Data cleaning, age group classification, fraud and cost aggregations
+- **Tableau**: Interactive visualizations of fraud types, claim cost impact, diagnoses, and age demographics
+
+## 📊 Key Insights
+- Fraudulent claims made up a significant portion of high-cost cases, especially **phantom billing** and **fake treatments**.
+- The **65+ age group** had the highest volume of claims and also the most high-cost and fraudulent claims.
+- **Epilepsy surgery, infertility treatment, and cosmetic surgery** had the highest average billed amounts among high-cost diagnoses.
+- Fraudulent claims accounted for over **$248 million**, with phantom billing and fake treatment being the most costly.
+
+
+---
+
+### **📊Project 2: Business Analysis - Revenue Growth Models**
 🔗 [View Project](https://docs.google.com/spreadsheets/d/1HraOeUDySRqMXfh66e9Hlmoow6slrRDr/edit?usp=sharing&ouid=107080210365207288161&rtpof=true&sd=true)
 - Cleaned and analyzed **historical sales data** using **Excel** (VLOOKUP, Pivot Tables, T-tests).
 - Performed **exploratory data analysis (EDA)** to identify **strategic revenue growth opportunities**.
 
----
+## 🛠 Tools Used
+-Excel
 
-### **📉 Project 2: # Healthcare Fraud & High-Cost Claims Analysis
- 🔗 [View Project] [**Project 2: Statistical Significance – Pricing Factors**](https://public.tableau.com/app/profile/crystal.lewis7397/viz/HealthcareFraudHigh-CostClaimsAnalysis/Healthcare_Claims_Insights?publish=yes): This project analyzes financial patterns and anomalies in healthcare claims, focusing on fraud types and high-cost claims using the NHIS Healthcare Claims Dataset.I identified which fraud types contribute most to financial loss, determine trends in high-cost claims, and explore the age groups most impacted by healthcare fraud.
-e.
 
 ---
+
 
   ### **🎬 Project 3: Inventory Analysis – Sales Trends**
  🔗 [View Project](https://colab.research.google.com/drive/1r1KcBGO1A3RaAGprVnIBQwBOegidZNqU)
