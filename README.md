@@ -43,8 +43,9 @@ Here are a few of the data analytics projects I’ve worked on that showcase my 
 
 ---
 
-### **📉 Project 2: 
- 🔗 [View Project] [**Project 2: Statistical Significance – Pricing Factors**](https://github.com/YourUsername/provider-relations): I examined determining factors that drive housing prices. Data and visualization supported through t-tests on housing price factors showing statistical significance.
+### **📉 Project 2: # Healthcare Fraud & High-Cost Claims Analysis
+ 🔗 [View Project] [**Project 2: Statistical Significance – Pricing Factors**](https://public.tableau.com/app/profile/crystal.lewis7397/viz/HealthcareFraudHigh-CostClaimsAnalysis/Healthcare_Claims_Insights?publish=yes): This project analyzes financial patterns and anomalies in healthcare claims, focusing on fraud types and high-cost claims using the NHIS Healthcare Claims Dataset.I identified which fraud types contribute most to financial loss, determine trends in high-cost claims, and explore the age groups most impacted by healthcare fraud.
+e.
 
 ---
 
