@@ -33,7 +33,7 @@ I have a deep understanding of **healthcare operations and member/provider inter
 
 
 ### **📉 Project 1: # Healthcare Fraud & High-Cost Claims Analysis
- 🔗 [View Tableau Dashboard] [**Healthcare Claims Analysis**](https://public.tableau.com/app/profile/crystal.lewis7397/viz/HealthcareFraudHigh-CostClaimsAnalysis/Healthcare_Claims_Insights?publish=yes):
+ 🔗 [View Tableau Dashboard](https://public.tableau.com/app/profile/crystal.lewis7397/viz/HealthcareFraudHigh-CostClaimsAnalysis/Healthcare_Claims_Insights?publish=yes):
  Using the NHIS Healthcare Claims Dataset, this project analyzed patterns in fraudulent and high-cost claims to uncover financial risks and demographic trends.
  
 **Tools: SQL, Tableau
