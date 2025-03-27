@@ -62,6 +62,7 @@ SELECT
 FROM claims_data
 GROUP BY age_group
 ORDER BY age_group;
+```
 
 > 🔍 Groups claims by age range and aggregates totals to highlight high-cost and fraudulent claim patterns by demographic.
 
