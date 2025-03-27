@@ -47,6 +47,7 @@ I have a deep understanding of **healthcare operations and member/provider inter
 
 
 ####💻 Sample SQL Query
+```sql
 SELECT
   CASE
     WHEN age < 18 THEN '0-17'
