@@ -33,7 +33,7 @@ I have a deep understanding of **healthcare operations and member/provider inter
 
 
 ### **📉 Project 1: # Healthcare Fraud & High-Cost Claims Analysis
- 🔗 [View Project] [**Healthcare Claims Analysis**](https://public.tableau.com/app/profile/crystal.lewis7397/viz/HealthcareFraudHigh-CostClaimsAnalysis/Healthcare_Claims_Insights?publish=yes):
+ 🔗 [View Tableau Dashboard] [**Healthcare Claims Analysis**](https://public.tableau.com/app/profile/crystal.lewis7397/viz/HealthcareFraudHigh-CostClaimsAnalysis/Healthcare_Claims_Insights?publish=yes):
  Using the NHIS Healthcare Claims Dataset, this project analyzed patterns in fraudulent and high-cost claims to uncover financial risks and demographic trends.
  
 **Tools: SQL, Tableau
@@ -44,6 +44,27 @@ I have a deep understanding of **healthcare operations and member/provider inter
 - The 65+ age group filed the most high-cost and fraudulent claims.
 
 - Epilepsy surgery, infertility treatment, and cosmetic surgery had the highest billed amounts.
+
+
+####💻 Sample SQL Query
+SELECT
+  CASE
+    WHEN age < 18 THEN '0-17'
+    WHEN age BETWEEN 18 AND 34 THEN '18-34'
+    WHEN age BETWEEN 35 AND 49 THEN '35-49'
+    WHEN age BETWEEN 50 AND 64 THEN '50-64'
+    ELSE '65+'
+  END AS age_group,
+  COUNT(*) AS total_claims,
+  SUM(CASE WHEN high_cost_flag = TRUE THEN 1 ELSE 0 END) AS high_cost_claims,
+  SUM(CASE WHEN fraud_type != 'No Fraud' THEN 1 ELSE 0 END) AS fraudulent_claims
+FROM claims_data
+GROUP BY age_group
+ORDER BY age_group;
+
+> 🔍 Groups claims by age range and aggregates totals to highlight high-cost and fraudulent claim patterns by demographic.
+
+
 
 
 ---
