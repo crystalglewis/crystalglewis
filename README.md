@@ -1,9 +1,9 @@
 # Welcome to My Data Analytics Portfolio! 👋
 
 ## About Me
-Hello! I'm **Crystal Lewis**, a results-driven and detail-oriented healthcare professional with over a decade of experience in **healthcare claims analysis, provider relations, and customer service**. 
+Hello! I'm **Crystal Lewis**, a results-driven and detail-oriented healthcare professional with over a decade of experience. I have experience in **healthcare claims analysis, provider relations, and customer service**. 
 
-I have a deep understanding of **healthcare operations and member/provider interactions**, paired with newly developed data analytics skills gained from completing a Data Analytics Program at Thinkful.  My passion lies in merging domain espertise with analytics to uncover insights and drive better decision- making in healthcare. 
+I have a deep understanding of **healthcare operations  and member/provider interactions**, paired with newly developed data analytics skills gained from completing a Data Analytics Program at Thinkful.  My passion lies in merging domain espertise with analytics to uncover insights and drive better decision- making in healthcare. 
 
 
 
