@@ -52,7 +52,7 @@ The dataset used for this analysis is a synthetic healthcare claims dataset mode
   ORDER BY fraud_rate_percentage DESC;
   ```
 
-![Provider Fraud Rate](provider_fraud_rate.png)
+  ![Provider Fraud Rate](provider_fraud_rate.png)
 
   **Insight:** Dr Shah has the highest fraud rate at **33.33%**
 
@@ -68,7 +68,7 @@ The dataset used for this analysis is a synthetic healthcare claims dataset mode
   LIMIT 3;
   ```
 
-![Top States Fraud](top_states_fraud.png)
+  ![Top States Fraud](top_states_fraud.png)
 
   **Insight:** **California, Texas, and Virginia has the highest number of fraudulent claims**
 
@@ -95,7 +95,7 @@ The dataset used for this analysis is a synthetic healthcare claims dataset mode
   LIMIT 3;
   ```
 
-![Specialty Fraud Rate](specialty_fraud_rate.png)
+  ![Specialty Fraud Rate](specialty_fraud_rate.png)
 
   **Insight** **Orthopedics and Dermatology had fraud rates higher than the overall average, with Orthopedics leading in total billed amount.**
 
