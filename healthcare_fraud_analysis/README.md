@@ -59,7 +59,7 @@ The dataset used for this analysis is a synthetic healthcare claims dataset mode
   ### 2. States with the Highest Fraudulent Claims
 
   ```sql
-  SELECT p state, COUNT(*) FILTER (WHERE c.is_fraudulent) AS fraud_count
+  SELECT p.state, COUNT(*) FILTER (WHERE c.is_fraudulent) AS fraud_count
   FROM claims_data c
   JOIN patients p
     ON c.patient_id = p.patient_id
@@ -70,9 +70,9 @@ The dataset used for this analysis is a synthetic healthcare claims dataset mode
 
   ![Top States Fraud](top_states_fraud.png)
 
-  **Insight:** **California, Texas, and Virginia has the highest number of fraudulent claims**
+  **Insight:** **California, Texas, and Virginia have the highest number of fraudulent claims**
 
-  ### 3.Specialties Above Average Fraud Rate
+  ### 3. Specialties Above Average Fraud Rate
 
   ```sql
   WITH overall_rate AS(
