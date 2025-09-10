@@ -32,13 +32,13 @@ I recently completed a Data Analytics Program through Thinkful, where I gained h
 ## 📚 Featured Projects
 
 
-### **📉 Project 1: # Healthcare Fraud & High-Cost Claims Analysis
+### 📉 Project 1: # Healthcare Fraud & High-Cost Claims Analysis
  🔗 [View Tableau Dashboard](https://public.tableau.com/app/profile/crystal.lewis7397/viz/HealthcareFraudHigh-CostClaimsAnalysis/InsightsDashboard?publish=yes)
  Using the NHIS Healthcare Claims Dataset, this project analyzed patterns in fraudulent and high-cost claims to uncover financial risks and demographic trends.
  
 **Tools: SQL, Tableau
 
-## 📊 Key Insights
+### 📊 Key Insights
 - Fraudulent claims (phantom billing, fake treatments) led to losses exceeding $248 million.
 
 - The 65+ age group filed the most high-cost and fraudulent claims.
@@ -71,7 +71,25 @@ ORDER BY age_group;
 
 ---
 
-### **📊Project 2: Business Analysis - Revenue Growth Models**
+### 📊Project 2: Healthcare Claims Operations Analysis
+🔗 [View Tableau Dashboard](https://public.tableau.com/app/profile/crystal.lewis7397/viz/HealthcareClaimsOperationsAnalysis/HealthcareClaimsOperations)
+Analyzed synthetic healthcare claims data to measure SLA performance, error impact, and regional/queue variations in turnaround time.
+
+**Tools: SQL, Tableau, Excel
+
+### 📊 Key Insights
+
+- SLA is steady overall but varies significantly by claim type.
+
+- DOB mismatch and OON Auth errors drive longer turnaround times.
+
+- Appeals queue consistently underperforms, while Intake achieves strongest SLA.
+
+- Midwest region shows slower TAT compared to others.
+
+
+
+### 📊Project 3: Business Analysis - Revenue Growth Models**
 🔗 [View Project](https://docs.google.com/spreadsheets/d/1HraOeUDySRqMXfh66e9Hlmoow6slrRDr/edit?usp=sharing&ouid=107080210365207288161&rtpof=true&sd=true)
 Analyzed historical sales data to find revenue growth opportunities.
 
@@ -82,7 +100,7 @@ Highlights: Conducted EDA and provided actionable recommendations for strategic 
 ---
 
 
-  ### **🎬 Project 3: Inventory Analysis – Sales Trends**
+  ### 🎬 Project 4: Inventory Analysis – Sales Trends**
  🔗 [View Project](https://colab.research.google.com/drive/1r1KcBGO1A3RaAGprVnIBQwBOegidZNqU)
 Explored sales trends in the movie industry to support production and acquisition strategies.
 
