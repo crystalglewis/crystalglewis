@@ -33,7 +33,7 @@ I recently completed a Data Analytics Program through Thinkful, where I gained h
 
 
 ### 📉 Project 1: # Healthcare Fraud & High-Cost Claims Analysis
- 🔗 [View Tableau Dashboard](https://public.tableau.com/app/profile/crystal.lewis7397/viz/HealthcareFraudHigh-CostClaimsAnalysis/InsightsDashboard?publish=yes)
+ 🔗 [View Tableau Dashboard](https://public.tableau.com/app/profile/crystal.lewis7397/viz/HealthcareFraudClaimsAnalysisDashboard/HealthcareFraudHigh-CostClaimsAnalysis?publish=yes)]
  Using the NHIS Healthcare Claims Dataset, this project analyzed patterns in fraudulent and high-cost claims to uncover financial risks and demographic trends.
  
 **Tools: SQL, Tableau
