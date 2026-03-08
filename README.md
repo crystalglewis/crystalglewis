@@ -32,7 +32,22 @@ I recently completed a Data Analytics Program through Thinkful, where I gained h
 ## 📚 Featured Projects
 
 
-### 📉 Project 1: # Healthcare Fraud & High-Cost Claims Analysis
+### 🔬 Public Health SQL Analysis
+SQL analysis identifying disease trends, vaccination gaps, and high-risk populations.
+
+Skills used:
+-SQL Joins
+-Aggregation (COUNT)
+-CASE statements
+-Data grouping
+
+Project details:
+[View Project](public_health_sql_analysis_project.md)
+
+---
+
+
+### 📉 Healthcare Fraud & High-Cost Claims Analysis
  🔗 [View Tableau Dashboard](https://public.tableau.com/app/profile/crystal.lewis7397/viz/HealthcareFraudClaimsAnalysisDashboard/HealthcareFraudHigh-CostClaimsAnalysis?publish=yes)]
  Using the NHIS Healthcare Claims Dataset, this project analyzed patterns in fraudulent and high-cost claims to uncover financial risks and demographic trends.
  
@@ -71,7 +86,7 @@ ORDER BY age_group;
 
 ---
 
-### 📊Project 2: Healthcare Claims Operations Analysis
+### 📊 Healthcare Claims Operations Analysis
 🔗 [View Tableau Dashboard](https://public.tableau.com/app/profile/crystal.lewis7397/viz/HealthcareClaimsOperationsAnalysis/HealthcareClaimsOperations)
 Analyzed synthetic healthcare claims data to measure SLA performance, error impact, and regional/queue variations in turnaround time.
 
@@ -89,7 +104,7 @@ Analyzed synthetic healthcare claims data to measure SLA performance, error impa
 
 
 
-### 📊Project 3: Business Analysis - Revenue Growth Models**
+### 📊 Business Analysis - Revenue Growth Models**
 🔗 [View Project](https://docs.google.com/spreadsheets/d/1HraOeUDySRqMXfh66e9Hlmoow6slrRDr/edit?usp=sharing&ouid=107080210365207288161&rtpof=true&sd=true)
 Analyzed historical sales data to find revenue growth opportunities.
 
