@@ -42,7 +42,7 @@ SQL analysis identifying **disease trends, vaccination gaps, and high-risk popul
 
 **Skills:** SQL Joins • Aggregations • CASE Statements • Data Investigation  
 
-📂 **[View Project](public_health_sql_analysis_project.md)
+📂 [View Project](public_health_sql_analysis_project.md)
 
 ---
 
@@ -106,7 +106,7 @@ Analyzed historical sales data to identify **revenue growth opportunities and st
 **Tools:** Python • Pandas • Data Visualization  
 
  📂 [View Project](https://colab.research.google.com/drive/1r1KcBGO1A3RaAGprVnIBQwBOegidZNqU)
-Exploratory analysis of movie industry sales trends to support production and acquisition strategies.
+
 
 
 
