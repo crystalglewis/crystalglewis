@@ -1,5 +1,7 @@
 # Welcome to My Data Analytics Portfolio! 👋
 
+Healthcare Data Analyst with 10+ years of healthcare claims and operations experience, specializing in SQL analysis, healthcare data insights, and fraud detection analytics.
+
 ## About Me
 
 Hello! I'm **Crystal Lewis**, a results-driven healthcare professional transitioning into a **Healthcare Data Analyst role**. With over a decade of experience in **healthcare claims analysis, provider relations, and healthcare operations**, I bring strong domain expertise and a deep understanding of **claims processing workflows, provider interactions, and healthcare system operations**.
@@ -33,22 +35,14 @@ My goal is to combine **healthcare domain expertise with data analytics** to ide
 
 ---
 
-## Featured Projects
+## 📊 Featured Analytics Projects
 
 ### 🔬 Public Health SQL Analysis
-
 SQL analysis identifying **disease trends, vaccination gaps, and high-risk populations** using relational healthcare datasets.
 
-**Skills Used**
+**Skills:** SQL Joins • Aggregations • CASE Statements • Data Investigation  
 
-- SQL Joins  
-- Aggregation (COUNT)  
-- CASE Statements  
-- Data Grouping  
-
-**Project Details**  
-[View Project](public_health_sql_analysis_project.md)
-
+📂 [View Project](public_health_sql_analysis_project.md)
 ---
 
 ### 📉 Healthcare Fraud & High-Cost Claims Analysis
@@ -57,39 +51,16 @@ SQL analysis identifying **disease trends, vaccination gaps, and high-risk popul
 
 Using the **NHIS Healthcare Claims Dataset**, this project analyzed patterns in fraudulent and high-cost claims to uncover financial risks and demographic trends.
 
-**Tools**
-
-SQL, Tableau
+**Tools:** SQL • Tableau
 
 **Key Insights**
 
-- Fraudulent claims (phantom billing, fake treatments) resulted in losses exceeding **$248M**.
-- The **65+ age group** generated the highest number of high-cost and fraudulent claims.
-- **Epilepsy surgery, infertility treatment, and cosmetic surgery** showed the highest billed amounts.
+- Fraudulent claims resulted in losses exceeding **$248M**
+- The **65+ age group** generated the highest number of high-cost and fraudulent claims
+- **Epilepsy surgery, infertility treatment, and cosmetic surgery** showed the highest billed amounts
 
-**Sample SQL Query**
-
-```sql
-SELECT
-  CASE
-    WHEN age < 18 THEN '0-17'
-    WHEN age BETWEEN 18 AND 34 THEN '18-34'
-    WHEN age BETWEEN 35 AND 49 THEN '35-49'
-    WHEN age BETWEEN 50 AND 64 THEN '50-64'
-    ELSE '65+'
-  END AS age_group,
-  COUNT(*) AS total_claims,
-  SUM(CASE WHEN high_cost_flag = TRUE THEN 1 ELSE 0 END) AS high_cost_claims,
-  SUM(CASE WHEN fraud_type != 'No Fraud' THEN 1 ELSE 0 END) AS fraudulent_claims
-FROM claims_data
-GROUP BY age_group
-ORDER BY age_group;
-```
-
-> 🔍 Groups claims by age range and aggregates totals to highlight high-cost and fraudulent claim patterns by demographic.
-
-
-
+📂 **View SQL Analysis & Methodology**  
+[Open Project Details](healthcare_fraud_analysis)
 
 ---
 
@@ -97,7 +68,7 @@ ORDER BY age_group;
 🔗 [View Tableau Dashboard](https://public.tableau.com/app/profile/crystal.lewis7397/viz/HealthcareClaimsOperationsAnalysis/HealthcareClaimsOperations)
 Analyzed synthetic healthcare claims data to measure SLA performance, error impact, and regional variations in turnaround time.
 
-**Tools: SQL, Tableau, Excel
+**Tools: ** SQL, Tableau, Excel
 
 ### 📊 Key Insights
 
@@ -114,22 +85,27 @@ Analyzed synthetic healthcare claims data to measure SLA performance, error impa
 ---
 
 
-### 📊 Business Analysis - Revenue Growth Model**
-🔗 [View Project](https://docs.google.com/spreadsheets/d/1HraOeUDySRqMXfh66e9Hlmoow6slrRDr/edit?usp=sharing&ouid=107080210365207288161&rtpof=true&sd=true)
-Analyzed historical sales data to identify revenue growth opportunities and operational improvements.
+### 💰 Business Analysis - Revenue Growth Model
+Analyzed historical sales data to identify **revenue growth opportunities and strategic insights**.
 
-Tools: Excel (VLOOKUP, Pivot Tables, T-tests)
+**Tools:** Excel • Statistical Analysis  
+
+
+📂 [View Project](https://docs.google.com/spreadsheets/d/1HraOeUDySRqMXfh66e9Hlmoow6slrRDr/edit?usp=sharing&ouid=107080210365207288161&rtpof=true&sd=true)
+
 
 
 
 ---
 
 
-  ### 🎬 Movie Industry Sales Trends Analysis**
- 🔗 [View Project](https://colab.research.google.com/drive/1r1KcBGO1A3RaAGprVnIBQwBOegidZNqU)
-Exploratory analysis of movie industry sales trends to support production and acquisition strategies.
+  ### 🎬 Movie Industry Sales Trends Analysis
+  Exploratory analysis of movie industry sales trends to support **production and acquisition strategies**.
 
-Tools: Python (Pandas, Matplotlib), Power BI
+**Tools:** Python • Pandas • Data Visualization  
+
+ 📂 [View Project](https://colab.research.google.com/drive/1r1KcBGO1A3RaAGprVnIBQwBOegidZNqU)
+Exploratory analysis of movie industry sales trends to support production and acquisition strategies.
 
 
 
@@ -143,7 +119,7 @@ I'm passionate about healthcare data analytics and data-driven decision making. 
 [crystal.g.lewis@gmail.com](mailto:your.email@example.com)
 
 **LinkedIn**: 
-[www.linkedin.com/in/crystalglewis](https://linkedin.com/in/yourname)
+[www.linkedin.com/in/crystalglewis](https://linkedin.com/in/crystalglewis)
 
 **GitHub**: 
 [www.github.com/crystalglewis](https://github.com/crystalglewis)
