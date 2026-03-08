@@ -42,7 +42,7 @@ SQL analysis identifying **disease trends, vaccination gaps, and high-risk popul
 
 **Skills:** SQL Joins • Aggregations • CASE Statements • Data Investigation  
 
-📂 ** [View Project](public_health_sql_analysis_project.md)
+📂 **[View Project](public_health_sql_analysis_project.md)
 
 ---
 
