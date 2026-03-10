@@ -53,7 +53,7 @@ Using the **NHIS Healthcare Claims Dataset**, this project analyzed patterns in 
 - The **65+ age group** generated the highest number of high-cost and fraudulent claims
 - **Epilepsy surgery, infertility treatment, and cosmetic surgery** showed the highest billed amounts
 
-  📂 [View Project](Healthcare_Fraud_&_High-Cost_Claims-Analysis.md)
+  📂 [View Project](Healthcare-Fraud-High-Cost-Claims-Analysis/)
 
 
 ---
