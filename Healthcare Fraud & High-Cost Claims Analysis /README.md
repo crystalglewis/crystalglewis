@@ -177,18 +177,18 @@ The dashboard visualizes
 
 ## Skills Demonstrated
 This project demonstrates the following analytics skills:
-- SQL data cleaning and aggregation
-- Fraud detection analysis
-- KPI development and reporting
-- Healthcare claims data analysis
-- Data visualization with Tableau
-- Business interpretation of analytical results
+-  SQL data cleaning and aggregation
+-  Fraud detection analysis
+-  KPI development and reporting
+-  Healthcare claims data analysis
+-  Data visualization with Tableau
+-  Business interpretation of analytical results
 
 ---
 
 ## Business Value
 This analysis demonstrates how healthcare claims data can support:
-- Payment integrity monitoring
-- Fraud detection strategies
-- Cost containment initiatives
-- Data-driven operational decisions
+-  Payment integrity monitoring
+-  Fraud detection strategies
+-  Cost containment initiatives
+-  Data-driven operational decisions
