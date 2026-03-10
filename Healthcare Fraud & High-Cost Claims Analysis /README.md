@@ -38,20 +38,23 @@ This analysis focuses on answering four key questions:
 ## Data Preparation
 The dataset was imported into PostgreSQL and prepared using SQL transformations.
 Key preparation steps included:
-• Importing the claims CSV dataset into PostgreSQL
-• Creating indicator flags for:
-•	Fraudulent Claims
-•	High-Cost Claims (>$10,000)
-• Segmenting members into age groups:
-•	0–17
-•	18–34
-•	35–49
-•	50–64
-•	65+
-• Aggregating billed amounts and fraud percentages by:
-•	Diagnosis category
-•	Age group
-•	Fraud type
+- Importing the claims CSV dataset into PostgreSQL
+- Creating indicator flags for:
+-	Fraudulent Claims
+-	High-Cost Claims (>$10,000)
+  
+ Segmenting members into age groups:
+	-0–17
+-	18–34
+-	35–49
+-	50–64
+-	65+
+  
+Aggregating billed amounts and fraud percentages by:
+-	Diagnosis category
+-	Age group
+-	Fraud type
+  
 The cleaned and aggregated dataset was then exported to Tableau for visualization.
 
 ---
