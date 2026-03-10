@@ -37,13 +37,6 @@ My goal is to combine **healthcare domain expertise with data analytics** to ide
 
 ## 📊 Featured Analytics Projects
 
-### 🔬 Public Health SQL Analysis
-SQL analysis identifying **disease trends, vaccination gaps, and high-risk populations** using relational healthcare datasets.
-
-**Skills:** SQL Joins • Aggregations • CASE Statements • Data Investigation  
-
-📂 [View Project](public_health_sql_analysis_project.md)
-
 ---
 
 ### 📉 Healthcare Fraud & High-Cost Claims Analysis
@@ -80,6 +73,14 @@ Analyzed synthetic healthcare claims data to measure SLA performance, error impa
 - The Midwest region experiences slower turnaround times compared to others. 
 
 
+---
+
+### 🔬 Public Health SQL Analysis
+SQL analysis identifying **disease trends, vaccination gaps, and high-risk populations** using relational healthcare datasets.
+
+**Skills:** SQL Joins • Aggregations • CASE Statements • Data Investigation  
+
+📂 [View Project](public_health_sql_analysis_project.md)
 
 ---
 
