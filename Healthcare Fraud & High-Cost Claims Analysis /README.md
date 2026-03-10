@@ -44,7 +44,7 @@ Key preparation steps included:
 -	High-Cost Claims (>$10,000)
   
  Segmenting members into age groups:
-	-0–17
+-   0–17
 -	18–34
 -	35–49
 -	50–64
@@ -117,11 +117,12 @@ ORDER BY age_group;
 
 ## What This Query Demonstrates
 This SQL analysis performs several analytical steps:
-• Segments claims into age groups using a CASE statement
-• Calculates total claims by demographic group
-• Identifies high-cost claims above $10K
-• Calculates fraudulent claim counts per age group
-• Computes fraud and high-cost claim percentages used as KPIs
+- Segments claims into age groups using a CASE statement
+- Calculates total claims by demographic group
+- Identifies high-cost claims above $10K
+- Calculates fraudulent claim counts per age group
+- Computes fraud and high-cost claim percentages used as KPIs
+  
 These calculations support identifying demographic patterns in fraud exposure.
 
 ---
@@ -135,8 +136,9 @@ Age Group Fraud Distribution
 The 65+ age group showed the highest fraud percentage (54%) and generated the largest share of high-cost claims totaling $51M.
 Fraud Type Patterns
 Two fraud types dominated the dataset:
-•	Phantom Billing
-•	Fake Treatments
+-	Phantom Billing
+-	Fake Treatments
+	
 Together they represented over 40% of fraud cases, indicating areas where enhanced billing verification may be needed.
 
 ---
@@ -166,27 +168,27 @@ Interactive Tableau dashboard:
 
 
 The dashboard visualizes
-•	Fraud percentage by diagnosis
-•	High-cost claims by age group
-•	Fraud type distribution
-•	Total fraud exposure across the dataset
+-	Fraud percentage by diagnosis
+-	High-cost claims by age group
+-	Fraud type distribution
+-	Total fraud exposure across the dataset
 
 ---
 
 ## Skills Demonstrated
 This project demonstrates the following analytics skills:
-• SQL data cleaning and aggregation
-• Fraud detection analysis
-• KPI development and reporting
-• Healthcare claims data analysis
-• Data visualization with Tableau
-• Business interpretation of analytical results
+- SQL data cleaning and aggregation
+- Fraud detection analysis
+- KPI development and reporting
+- Healthcare claims data analysis
+- Data visualization with Tableau
+- Business interpretation of analytical results
 
 ---
 
 ## Business Value
 This analysis demonstrates how healthcare claims data can support:
-• Payment integrity monitoring
-• Fraud detection strategies
-• Cost containment initiatives
-• Data-driven operational decisions
+- Payment integrity monitoring
+- Fraud detection strategies
+- Cost containment initiatives
+- Data-driven operational decisions
