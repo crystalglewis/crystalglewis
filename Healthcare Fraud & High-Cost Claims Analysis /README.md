@@ -159,10 +159,11 @@ Data-driven monitoring can help insurers identify fraud patterns earlier and red
 
 ## Dashboard
 Interactive Tableau dashboard:
-🔗 [View Tableau Dashboard](https://public.tableau.com/app/profile/crystal.lewis7397/viz/HealthcareFraudClaimsAnalysisDashboard/HealthcareFraudHigh-CostClaimsAnalysis?publish=yes)The dashboard visualizes:
+🔗 [View Tableau Dashboard](https://public.tableau.com/app/profile/crystal.lewis7397/viz/HealthcareFraudClaimsAnalysisDashboard/HealthcareFraudHigh-CostClaimsAnalysis?publish=yes)
 
 ---
 
+The dashboard visualizes
 •	Fraud percentage by diagnosis
 •	High-cost claims by age group
 •	Fraud type distribution
