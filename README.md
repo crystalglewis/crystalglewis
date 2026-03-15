@@ -55,9 +55,9 @@ Using the **NHIS Healthcare Claims Dataset**, this project analyzed patterns in 
 
   📂 [View Project](Healthcare_High_Cost_Claims_Analyis)
 
-<br>
-<br>
+
 ---
+
 <br>
 <br>
 
@@ -77,9 +77,9 @@ Analyzed synthetic healthcare claims data to measure SLA performance, error impa
 
 - The Midwest region experiences slower turnaround times compared to others. 
 
-<br>
-<br>
+
 ---
+
 <br>
 <br>
 ### 🔬 Public Health SQL Analysis
@@ -88,9 +88,9 @@ SQL analysis identifying **disease trends, vaccination gaps, and high-risk popul
 **Skills:** SQL Joins • Aggregations • CASE Statements • Data Investigation  
 
 📂 [View Project](public_health_sql_analysis_project.md)
-<br>
-<br>
+
 ---
+
 <br>
 <br>
 
@@ -103,9 +103,9 @@ SQL analysis of resident vaccination records and outreach activity data to ident
 
 📂 [View Project](public_health_vaccination_analysis/README.md)
 
-<br>
-<br>
+
 ---
+
 <br>
 <br>
 
@@ -117,9 +117,8 @@ Analyzed historical sales data to identify **revenue growth opportunities and st
 
 📂 [View Project](https://docs.google.com/spreadsheets/d/1HraOeUDySRqMXfh66e9Hlmoow6slrRDr/edit?usp=sharing&ouid=107080210365207288161&rtpof=true&sd=true)
 
-<br>
-<br>
 ---
+
 <br>
 <br>
 
@@ -130,8 +129,7 @@ Analyzed historical sales data to identify **revenue growth opportunities and st
 
  📂 [View Project](https://colab.research.google.com/drive/1r1KcBGO1A3RaAGprVnIBQwBOegidZNqU)
 
-<br>
-<br>
+
 ---
 
 ## 💬 Let's Connect!
