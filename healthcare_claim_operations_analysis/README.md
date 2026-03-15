@@ -52,6 +52,27 @@ The analysis focuses on several operational KPIs:
 - SLA performance by claim type
 - Regional performance across processing queues
 
+## Sample SQL Queries
+
+SQL was used to aggregate claims performance metrics, identify operational bottlenecks, and evaluate SLA performance across claim types, regions, and error categories.
+
+Below are representative queries used to generate the analysis behind the dashboard.
+
+---
+
+### Weekly Claim Volume and SLA Performance
+
+This query aggregates claims received by week and calculates the average SLA rate to track operational performance over time.
+
+```sql
+SELECT 
+    DATE_TRUNC('week', claim_date) AS week,
+    COUNT(*) AS claims_received,
+    AVG(sla_met) AS sla_rate
+FROM claims
+GROUP BY week
+ORDER BY week;
+```
 ---
 
 ## Key Insights
@@ -59,6 +80,7 @@ The analysis focuses on several operational KPIs:
 **SLA performance varies significantly by claim type**
 
 Institutional claims maintain the highest SLA rate, while pharmacy and vision claims show lower compliance levels.
+
 
 **Certain claim errors significantly increase turnaround time**
 
