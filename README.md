@@ -55,8 +55,11 @@ Using the **NHIS Healthcare Claims Dataset**, this project analyzed patterns in 
 
   📂 [View Project](Healthcare_High_Cost_Claims_Analyis)
 
-
+<br>
+<br>
 ---
+<br>
+<br>
 
 ### 📊 Healthcare Claims Operations Analysis
 🔗 [View Tableau Dashboard](https://public.tableau.com/app/profile/crystal.lewis7397/viz/HealthcareClaimsOperationsAnalysis/HealthcareClaimsOperations)
@@ -74,18 +77,22 @@ Analyzed synthetic healthcare claims data to measure SLA performance, error impa
 
 - The Midwest region experiences slower turnaround times compared to others. 
 
-
+<br>
+<br>
 ---
-
+<br>
+<br>
 ### 🔬 Public Health SQL Analysis
 SQL analysis identifying **disease trends, vaccination gaps, and high-risk populations** using relational healthcare datasets.
 
 **Skills:** SQL Joins • Aggregations • CASE Statements • Data Investigation  
 
 📂 [View Project](public_health_sql_analysis_project.md)
-
+<br>
+<br>
 ---
-
+<br>
+<br>
 
 
 ### 🔬 Public Health Vaccination Outreach Analysis
@@ -96,10 +103,11 @@ SQL analysis of resident vaccination records and outreach activity data to ident
 
 📂 [View Project](public_health_vaccination_analysis/README.md)
 
-
-
+<br>
+<br>
 ---
-
+<br>
+<br>
 
 ### 💰 Business Analysis - Revenue Growth Model
 Analyzed historical sales data to identify **revenue growth opportunities and strategic insights**.
@@ -109,11 +117,11 @@ Analyzed historical sales data to identify **revenue growth opportunities and st
 
 📂 [View Project](https://docs.google.com/spreadsheets/d/1HraOeUDySRqMXfh66e9Hlmoow6slrRDr/edit?usp=sharing&ouid=107080210365207288161&rtpof=true&sd=true)
 
-
-
-
+<br>
+<br>
 ---
-
+<br>
+<br>
 
   ### 🎬 Movie Industry Sales Trends Analysis
   Exploratory analysis of movie industry sales trends to support **production and acquisition strategies**.
@@ -122,10 +130,8 @@ Analyzed historical sales data to identify **revenue growth opportunities and st
 
  📂 [View Project](https://colab.research.google.com/drive/1r1KcBGO1A3RaAGprVnIBQwBOegidZNqU)
 
-
-
-
-
+<br>
+<br>
 ---
 
 ## 💬 Let's Connect!
