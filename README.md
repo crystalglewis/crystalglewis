@@ -87,6 +87,20 @@ SQL analysis identifying **disease trends, vaccination gaps, and high-risk popul
 ---
 
 
+
+### 🔬 Public Health Vaccination Outreach Analysis
+
+SQL analysis of resident vaccination records and outreach activity data to identify unvaccinated residents, summarize vaccine distribution, and evaluate event participation.
+
+**Skills:** SQL Joins • Aggregation • Data Cleaning • Public Health Analysis
+
+📂 [View Project](public_health_vaccination_analysis/README.md)
+
+
+
+---
+
+
 ### 💰 Business Analysis - Revenue Growth Model
 Analyzed historical sales data to identify **revenue growth opportunities and strategic insights**.
 
