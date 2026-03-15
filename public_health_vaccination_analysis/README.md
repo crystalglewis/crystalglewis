@@ -69,7 +69,11 @@ ON r.resident_id = v.resident_id
 WHERE v.resident_id IS NULL;
 ```
 
+![Unvaccinated Residents](screenshots/query1_unvaccinated.png)
+
 This query identifies residents who have not received any recorded vaccinations.
+
+
 
 ---
 
@@ -80,7 +84,11 @@ SELECT DISTINCT vaccine_type
 FROM VaccinationEvent;
 ```
 
+![Vaccine_Types](screenshots/query2_vaccine_types.png)
+
 This query identifies all unique vaccine types administered across clinics.
+
+
 
 ---
 
@@ -116,6 +124,8 @@ ON r.resident_id = v.resident_id
 GROUP BY r.zip_code;
 ```
 
+![Zip_Counts](screenshots/query4_zip_counts.png)
+
 This query summarizes vaccination coverage across ZIP codes.
 
 ---
@@ -129,6 +139,8 @@ FROM OutreachActivity
 GROUP BY activity_type
 ORDER BY participants_per_activity DESC;
 ```
+
+![Outreach_Activity](screenshots/query5_outreach_activity.png)
 
 This query evaluates which outreach events generated the highest engagement.
 
