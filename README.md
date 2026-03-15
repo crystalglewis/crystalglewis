@@ -55,9 +55,10 @@ Using the **NHIS Healthcare Claims Dataset**, this project analyzed patterns in 
 
   📂 [View Project](Healthcare_High_Cost_Claims_Analyis)
 
+<br>
+
 ---
 
-<br>
 
 ### 📊 Healthcare Claims Operations Analysis
 🔗 [View Tableau Dashboard](https://public.tableau.com/app/profile/crystal.lewis7397/viz/HealthcareClaimsOperationsAnalysis/HealthcareClaimsOperations)
