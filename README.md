@@ -82,6 +82,7 @@ Analyzed synthetic healthcare claims data to measure SLA performance, error impa
 <br>
 
 ### 🔬 Public Health SQL Analysis
+
 SQL analysis identifying **disease trends, vaccination gaps, and high-risk populations** using relational healthcare datasets.
 
 **Skills:** SQL Joins • Aggregations • CASE Statements • Data Investigation  
