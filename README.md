@@ -76,6 +76,9 @@ Analyzed synthetic healthcare claims data to measure SLA performance, error impa
 
 - The Midwest region experiences slower turnaround times compared to others. 
 
+  📂 [View Project](healthcare_claim_operations_analyis)
+
+
 <br>
 
 ---
