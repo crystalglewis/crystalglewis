@@ -59,7 +59,6 @@ Using the **NHIS Healthcare Claims Dataset**, this project analyzed patterns in 
 ---
 
 <br>
-<br>
 
 ### 📊 Healthcare Claims Operations Analysis
 🔗 [View Tableau Dashboard](https://public.tableau.com/app/profile/crystal.lewis7397/viz/HealthcareClaimsOperationsAnalysis/HealthcareClaimsOperations)
@@ -81,7 +80,6 @@ Analyzed synthetic healthcare claims data to measure SLA performance, error impa
 ---
 
 <br>
-<br>
 ### 🔬 Public Health SQL Analysis
 SQL analysis identifying **disease trends, vaccination gaps, and high-risk populations** using relational healthcare datasets.
 
@@ -91,7 +89,6 @@ SQL analysis identifying **disease trends, vaccination gaps, and high-risk popul
 
 ---
 
-<br>
 <br>
 
 
@@ -107,7 +104,6 @@ SQL analysis of resident vaccination records and outreach activity data to ident
 ---
 
 <br>
-<br>
 
 ### 💰 Business Analysis - Revenue Growth Model
 Analyzed historical sales data to identify **revenue growth opportunities and strategic insights**.
@@ -119,7 +115,6 @@ Analyzed historical sales data to identify **revenue growth opportunities and st
 
 ---
 
-<br>
 <br>
 
   ### 🎬 Movie Industry Sales Trends Analysis
