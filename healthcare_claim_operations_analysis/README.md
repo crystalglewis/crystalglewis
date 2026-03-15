@@ -54,15 +54,15 @@ The analysis focuses on several operational KPIs:
 
 ## Sample SQL Queries
 
-SQL was used to aggregate claims performance metrics, identify operational bottlenecks, and evaluate SLA performance across claim types, regions, and error categories.
+SQL was used to aggregate claims data and calculate performance metrics used in the dashboard. These queries summarize operational trends such as claim volume, SLA performance, and the impact of claim errors.
 
-Below are representative queries used to generate the analysis behind the dashboard.
+Below are examples of queries used to support the analysis.
 
 ---
 
 ### Weekly Claim Volume and SLA Performance
 
-This query aggregates claims received by week and calculates the average SLA rate to track operational performance over time.
+To monitor operational trends, I aggregated claim volume by week and calculated the average SLA compliance rate.
 
 ```sql
 SELECT 
@@ -81,18 +81,55 @@ ORDER BY week;
 
 Institutional claims maintain the highest SLA rate, while pharmacy and vision claims show lower compliance levels.
 
+I analyzed SLA compliance across claim categories to determin which types of claims had the strongest processing performance
+
+```
+SELECT 
+    claim_type,
+    AVG(sla_met) AS sla_rate
+FROM claims
+GROUP BY claim_type
+ORDER BY sla_rate DESC;
+```
+This allowed me to compare perfomance between claim types such as institutional, professional, pharmacy, and vision
+
 
 **Certain claim errors significantly increase turnaround time**
 
 Errors such as **DOB mismatch and out-of-network authorization issues** are strongly associated with longer processing times.
 
+```
+SELECT 
+    error_code,
+    AVG(turnaround_days) AS avg_processing_time,
+    COUNT(*) AS error_count
+FROM claims
+GROUP BY error_code
+ORDER BY avg_processing_time DESC;
+```
+This analysis helped identify which error types were associated with longer turnaround times.
+
+
+
 **Operational performance varies by processing queue**
 
 Appeals queues consistently show lower SLA performance compared to other operational queues.
 
+
 **Regional performance differences exist**
 
 The Midwest region demonstrates slower turnaround times compared to other regions.
+
+```
+SELECT 
+    region,
+    queue,
+    AVG(sla_met) AS sla_rate
+FROM claims
+GROUP BY region, queue
+ORDER BY region;
+```
+This query helped highlight regional perfomance differences and areas where operational improvements may be needed
 
 ---
 
