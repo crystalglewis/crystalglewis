@@ -2,8 +2,7 @@
 
 Pharmacy spend analysis using Excel to simulate how health plans and pharmacy benefit teams monitor medication costs, utilization controls, and formulary trends.
 
-🖼️ Dashboard Preview:crystalglewis/Pharmacy_Spend_Analysis
-/Pharmacy_Spend_Analysis_Screenshot.png
+🖼️ Dashboard Preview:![Pharmacy Spend Analysis](Pharmacy_Spend_Analysis_Screenshot.png)
 
 📂 Excel File: Add workbook link here
 
