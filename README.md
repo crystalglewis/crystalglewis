@@ -41,7 +41,8 @@ My goal is to combine **healthcare domain expertise with data analytics** to ide
 ### 💊 Pharmacy Spend Analysis
 Pharmacy spend analysis using Excel to simulate how health plans and pharmacy benefit teams monitor medication costs, utilization controls, and formulary trends.
 
-🔗 [View Excel Dashboard](https://public.tableau.com/app/profile/crystal.lewis7397/viz/HealthcareFraudClaimsAnalysisDashboard/HealthcareFraudHigh-CostClaimsAnalysis?publish=yes)
+🖼️ [View Dashboard Preview](./dashboard_preview.png)
+🔗 [Download Excel Dashboard](./Pharmacy_Spend_Dashboard.xlsx)  
 
 Dataset: Synthetic pharmacy claims dataset generated for portfolio analytics practice using AI-assisted data creation. No real patient or proprietary data was used.
 
@@ -50,10 +51,10 @@ Dataset: Synthetic pharmacy claims dataset generated for portfolio analytics pra
 **Key Insights**
 
 - Total pharmacy spend analyzed: $55K
-- Tier 3 medications drove $52K of total spend, indicating specialty/high-cost therapies as the largest expense area
-- Brand drugs accounted for 99.8% of spend, highlighting limited generic utilization opportunities
+- Tier 3 medications drove $52K of total spend
+- Brand drugs accounted for 99.8% of spend
 
-  📂 [View Project](Healthcare_High_Cost_Claims_Analyis)
+  📂 [View Project](Pharmacy_Spend_Analysis)
 
 <br>
 
@@ -85,7 +86,7 @@ Using the **NHIS Healthcare Claims Dataset**, this project analyzed patterns in 
 🔗 [View Tableau Dashboard](https://public.tableau.com/app/profile/crystal.lewis7397/viz/HealthcareClaimsOperationsAnalysis/HealthcareClaimsOperations)
 Analyzed synthetic healthcare claims data to measure SLA performance, error impact, and regional variations in turnaround time.
 
-**Tools: ** SQL, Tableau, Excel
+**Tools: ** SQL | Tableau | Excel
 
 ### 📊 Key Insights
 
@@ -109,7 +110,7 @@ Analyzed synthetic healthcare claims data to measure SLA performance, error impa
 
 SQL analysis identifying **disease trends, vaccination gaps, and high-risk populations** using relational healthcare datasets.
 
-**Skills:** SQL Joins • Aggregations • CASE Statements • Data Investigation  
+**Skills:** SQL Joins | Aggregations | CASE Statements | Data Investigation  
 
 📂 [View Project](public_health_sql_analysis_project.md)
 
@@ -122,7 +123,7 @@ SQL analysis identifying **disease trends, vaccination gaps, and high-risk popul
 
 SQL analysis of resident vaccination records and outreach activity data to identify unvaccinated residents, summarize vaccine distribution, and evaluate event participation.
 
-**Skills:** SQL Joins • Aggregation • Data Cleaning • Public Health Analysis
+**Skills:** SQL Joins | Aggregation | Data Cleaning | Public Health Analysis
 
 📂 [View Project](public_health_vaccination_analysis/README.md)
 
@@ -134,7 +135,7 @@ SQL analysis of resident vaccination records and outreach activity data to ident
 ### 💰 Business Analysis - Revenue Growth Model
 Analyzed historical sales data to identify **revenue growth opportunities and strategic insights**.
 
-**Tools:** Excel • Statistical Analysis  
+**Tools:** Excel | Statistical Analysis  
 
 
 📂 [View Project](https://docs.google.com/spreadsheets/d/1HraOeUDySRqMXfh66e9Hlmoow6slrRDr/edit?usp=sharing&ouid=107080210365207288161&rtpof=true&sd=true)
@@ -147,7 +148,7 @@ Analyzed historical sales data to identify **revenue growth opportunities and st
   ### 🎬 Movie Industry Sales Trends Analysis
   Exploratory analysis of movie industry sales trends to support **production and acquisition strategies**.
 
-**Tools:** Python • Pandas • Data Visualization  
+**Tools:** Python | Pandas | Data Visualization  
 
  📂 [View Project](https://colab.research.google.com/drive/1r1KcBGO1A3RaAGprVnIBQwBOegidZNqU)
 
