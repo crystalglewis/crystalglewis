@@ -41,9 +41,9 @@ My goal is to combine **healthcare domain expertise with data analytics** to ide
 ### 💊 Pharmacy Spend Analysis
 Pharmacy spend analysis using Excel to simulate how health plans and pharmacy benefit teams monitor medication costs, utilization controls, and formulary trends.
 
-🖼️ [View Dashboard Preview](crystalglewis/Pharmacy_Spend_Analysis/Pharmacy_Spend_Analysis_Screenshot.png) 
+🖼️ [View Dashboard Preview](Pharmacy_Spend_Analysis_Screenshot.png) 
 
-🔗 [Download Excel Dashboard](./Pharmacy_Spend_Dashboard.xlsx)  
+🔗 [Download Excel Dashboard](./Pharmacy_Spend_Analysis.xlsx)  
 
 Dataset: Synthetic pharmacy claims dataset generated for portfolio analytics practice using AI-assisted data creation. No real patient or proprietary data was used.
 
