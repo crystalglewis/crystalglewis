@@ -55,7 +55,7 @@ Dataset: Synthetic pharmacy claims dataset generated for portfolio analytics pra
 - Tier 3 medications drove $52K of total spend
 - Brand drugs accounted for 99.8% of spend
 
-  📂 [View Project](Pharmacy_Spend_Analysis)
+  📂 [View Project](Pharmacy_Spend_Analysis/README.md
 
 <br>
 
