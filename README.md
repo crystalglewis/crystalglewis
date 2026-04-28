@@ -36,7 +36,26 @@ My goal is to combine **healthcare domain expertise with data analytics** to ide
 ---
 
 ## 📊 Featured Analytics Projects
+---
+---
+### 💊 Pharmacy Spend Analysis
+Pharmacy spend analysis using Excel to simulate how health plans and pharmacy benefit teams monitor medication costs, utilization controls, and formulary trends.
 
+🔗 [View Excel Dashboard](https://public.tableau.com/app/profile/crystal.lewis7397/viz/HealthcareFraudClaimsAnalysisDashboard/HealthcareFraudHigh-CostClaimsAnalysis?publish=yes)
+
+Dataset: Synthetic pharmacy claims dataset generated for portfolio analytics practice using AI-assisted data creation. No real patient or proprietary data was used.
+
+**Tools:** Excel | Power Query | Pivot Tables | Healthcare Analytics
+
+**Key Insights**
+
+- Total pharmacy spend analyzed: $55K
+- Tier 3 medications drove $52K of total spend, indicating specialty/high-cost therapies as the largest expense area
+- Brand drugs accounted for 99.8% of spend, highlighting limited generic utilization opportunities
+
+  📂 [View Project](Healthcare_High_Cost_Claims_Analyis)
+
+<br>
 ---
 
 ### 📉 Healthcare Fraud & High-Cost Claims Analysis
