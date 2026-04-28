@@ -37,7 +37,7 @@ My goal is to combine **healthcare domain expertise with data analytics** to ide
 
 ## 📊 Featured Analytics Projects
 ---
----
+
 ### 💊 Pharmacy Spend Analysis
 Pharmacy spend analysis using Excel to simulate how health plans and pharmacy benefit teams monitor medication costs, utilization controls, and formulary trends.
 
