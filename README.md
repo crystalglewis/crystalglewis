@@ -38,8 +38,28 @@ My goal is to combine **healthcare domain expertise with data analytics** to ide
 ## 📊 Featured Analytics Projects
 ---
 
-### 💊 Pharmacy Spend Analysis
-Pharmacy spend analysis using Excel to simulate how health plans and pharmacy benefit teams monitor medication costs, utilization controls, and formulary trends.
+### 📉 Healthcare Fraud & High-Cost Claims Analysis
+
+🔗 [View Tableau Dashboard](https://public.tableau.com/app/profile/crystal.lewis7397/viz/HealthcareFraudClaimsAnalysisDashboard/HealthcareFraudHigh-CostClaimsAnalysis?publish=yes)
+
+Using the **NHIS Healthcare Claims Dataset**, this project analyzed patterns in fraudulent and high-cost claims to uncover financial risks and demographic trends.
+
+**Tools:** SQL • Tableau
+
+**Key Insights**
+
+- Fraudulent claims resulted in losses exceeding **$248M**
+- The **65+ age group** generated the highest number of high-cost and fraudulent claims
+- **Epilepsy surgery, infertility treatment, and cosmetic surgery** showed the highest billed amounts
+
+  📂 [View Project](Healthcare_High_Cost_Claims_Analyis)
+
+<br>
+
+---
+
+### 💊 Project Expansion: Pharmacy Spend Analysis
+To expand the original analysis, a pharmacy dataset was introduced to evaluate prescription cost impact, utilization trends, and potential relationships with high-cost and fraudulent claims. Pharmacy spend analysis using Excel to simulate how health plans and pharmacy benefit teams monitor medication costs, utilization controls, and formulary trends.
 
 🖼️ [View Dashboard Preview](/Pharmacy_Spend_Analysis/Pharmacy_Spend_Analysis_Screenshot.png) 
 
@@ -56,27 +76,6 @@ Dataset: Synthetic pharmacy claims dataset generated for portfolio analytics pra
 - Brand drugs accounted for 99.8% of spend
 
   📂 [View Project](Pharmacy_Spend_Analysis/README.md)
-
-<br>
-
----
-
-
-### 📉 Healthcare Fraud & High-Cost Claims Analysis
-
-🔗 [View Tableau Dashboard](https://public.tableau.com/app/profile/crystal.lewis7397/viz/HealthcareFraudClaimsAnalysisDashboard/HealthcareFraudHigh-CostClaimsAnalysis?publish=yes)
-
-Using the **NHIS Healthcare Claims Dataset**, this project analyzed patterns in fraudulent and high-cost claims to uncover financial risks and demographic trends.
-
-**Tools:** SQL • Tableau
-
-**Key Insights**
-
-- Fraudulent claims resulted in losses exceeding **$248M**
-- The **65+ age group** generated the highest number of high-cost and fraudulent claims
-- **Epilepsy surgery, infertility treatment, and cosmetic surgery** showed the highest billed amounts
-
-  📂 [View Project](Healthcare_High_Cost_Claims_Analyis)
 
 <br>
 
