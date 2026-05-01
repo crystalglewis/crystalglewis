@@ -64,7 +64,7 @@ Using the **NHIS Healthcare Claims Dataset**, this project analyzed patterns in 
 
 To expand the original analysis, a pharmacy dataset was introduced to evaluate prescription cost impact, utilization trends, and potential relationships with high-cost and fraudulent claims. Pharmacy spend analysis using Excel to simulate how health plans and pharmacy benefit teams monitor medication costs, utilization controls, and formulary trends.
 
-🔗 Interactive Version (Google Sheets): [link]
+🔗 [Interactive_Version]_(Google_Sheets):(/Pharmacy_Spend_Analysis/
 
 📥 [Download Excel File](/Pharmacy_Spend_Analysis/Pharmacy_Spend_Analysis_(1).xlsx)
 
