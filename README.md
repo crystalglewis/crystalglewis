@@ -66,6 +66,8 @@ To expand the original analysis, a pharmacy dataset was introduced to evaluate p
 
 🔗 [Download Excel File](/Pharmacy_Spend_Analysis/Pharmacy_Spend_Analysis_(1).xlsx)
 
+- Full Version with Power Query
+
 Dataset: Synthetic pharmacy claims dataset generated for portfolio analytics practice using AI-assisted data creation. No real patient or proprietary data was used.
 
 **Tools:** Excel | Power Query | Pivot Tables | Healthcare Analytics
