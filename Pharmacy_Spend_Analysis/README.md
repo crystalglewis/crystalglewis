@@ -4,7 +4,11 @@ Pharmacy spend analysis using Excel to simulate how health plans and pharmacy be
 
 🖼️ [View Dashboard Preview](/Pharmacy_Spend_Analysis/Pharmacy_Spend_Analysis_Screenshot.png) 
 
-📂 [Excel File:](/Pharmacy_Spend_Analysis/Pharmacy_Spend_Analysis.xlsx)
+### View Project
+
+🔗 Interactive Version (Google Sheets): [link]
+
+📥 [Download Excel File](/Pharmacy_Spend_Analysis/Pharmacy_Spend_Analysis.xlsx)
 
 **Dataset:** Synthetic pharmacy claims dataset generated for portfolio analytics practice using AI-assisted data creation. No real patient or proprietary data was used.
 
