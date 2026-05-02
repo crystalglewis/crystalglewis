@@ -1,4 +1,4 @@
-# 💊 Pharmacy Spend Analysis
+# 💊 Pharmacy Spend Analysis(Project Expansion)
 
 Pharmacy spend analysis using Excel to simulate how health plans and pharmacy benefit teams monitor medication costs, utilization controls, and formulary trends.
 
