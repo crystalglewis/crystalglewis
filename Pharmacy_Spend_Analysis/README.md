@@ -9,7 +9,8 @@ To expand the original analysis, a pharmacy dataset was introduced to evaluate p
 🔗 [Interactive Version(Google Sheets)](https://docs.google.com/spreadsheets/d/1V6oDT93N4qlQmzPQONpbJAOSgCxUg8GX/edit?usp=sharing&ouid=107080210365207288161&rtpof=true&sd=true) 
 
 📥 [Download Excel File](/Pharmacy_Spend_Analysis/Pharmacy_Spend_Analysis_(1).xlsx)
-- Full version with Power Query
+
+- This version reflects the final cleaned dataset. Data preparation and transformation were performed in Excel using Power Query prior to upload.
 
 
 **Dataset:** Synthetic pharmacy claims dataset generated for portfolio analytics practice using AI-assisted data creation. No real patient or proprietary data was used.
