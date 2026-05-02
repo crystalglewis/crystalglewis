@@ -6,7 +6,7 @@ Pharmacy spend analysis using Excel to simulate how health plans and pharmacy be
 
 ### View Project
 
-🔗 [Interactive Version (Google Sheets)]:(https://docs.google.com/spreadsheets/d/1V6oDT93N4qlQmzPQONpbJAOSgCxUg8GX/edit?usp=sharing&ouid=107080210365207288161&rtpof=true&sd=true)
+🔗 [Interactive Version(Google Sheets)](https://docs.google.com/spreadsheets/d/1V6oDT93N4qlQmzPQONpbJAOSgCxUg8GX/edit?usp=sharing&ouid=107080210365207288161&rtpof=true&sd=true)
 
 📥 [Download Excel File](/Pharmacy_Spend_Analysis/Pharmacy_Spend_Analysis_(1).xlsx)
 - Full version with Power Query
