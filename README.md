@@ -58,7 +58,7 @@ Using the **NHIS Healthcare Claims Dataset**, this project analyzed patterns in 
 
 ---
 
-### 💊 Project Expansion: Pharmacy Spend Analysis
+### 💊 Pharmacy Spend Analysis(Project Expansion)
 
 🖼️ [View Excel_Dashboard](/Pharmacy_Spend_Analysis/Pharmacy_Spend_Analysis_Screenshot.png) 
 
