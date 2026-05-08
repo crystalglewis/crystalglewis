@@ -8,9 +8,9 @@ Hello! I'm **Crystal Lewis**, a data-focused healthcare Analyst transitioning in
 
 To expand my technical skillset, I completed a **Data Analytics Certification through Thinkful**, where I gained hands-on experience using **SQL, Tableau, Python, and Excel** to analyze real-world datasets and uncover actionable insights.
 
-I am currently continuing my development through the **Data Analytics Simplified program**, where I am strengthening my skills in **SQL, Excel, and Power BI within a Microsoft virtual environment**. This training focuses on practical business analysis, database querying, and building dashboards to support **data-driven decision making**.
+I also completed the Data Analytics Simplified program, where I strengthened my skills in SQL, Excel, and Power BI, working within a Microsoft-based environment to build dashboards, write queries, and apply business-focused analysis.
 
-My goal is to combine **healthcare domain expertise with data analytics** to identify trends, improve operational efficiency, and support smarter decision-making across healthcare organizations.
+My goal is to combine healthcare domain expertise with data analytics to identify trends, improve operational efficiency, and support smarter decision-making across healthcare organizations.
 
 ---
 
