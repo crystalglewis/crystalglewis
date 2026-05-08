@@ -1,11 +1,19 @@
-🏥 Greenwood Hospital Admissions Analysis (Power BI)
-Overview
+#🏥 Greenwood Hospital Admissions Analysis 2023 | Power BI
 
-This project analyzes hospital admissions data for a fictional healthcare client, Greenwood Hospital, using Power BI. The goal was to create an executive-level dashboard that provides visibility into patient volume, operational performance, and financial trends across departments.
+Dataset: Synthetic Hospital Admissions Data (Greenwood Hospital, 2023)
+Total Treatment Revenue: $18.7M
+Tools: Power BI, DAX, Data Modeling, Excel
 
-The dashboard was designed to simulate a real-world business scenario, focusing on how healthcare organizations can use data to support operational decisions, improve patient outcomes, and monitor financial performance.
+Project Summary:
+An end-to-end hospital admissions analysis project using Power BI to evaluate patient volume, readmissions, treatment costs, and department-level performance across a synthetic healthcare dataset.
 
-Business Problem
+#  📌 Project Overview
+
+Hospital admissions data plays a critical role in understanding operational performance, resource utilization, and financial outcomes. This project analyzes admissions data for a fictional healthcare client, Greenwood Hospital, to identify trends in patient volume, readmissions, and treatment costs.
+
+Using Power BI, the dashboard was designed to simulate an executive-level reporting tool that provides leadership with actionable insights into hospital performance. The analysis focuses on how data can support decisions related to patient care, cost management, and operational efficiency.
+
+# Business Problem
 
 Hospital leadership needs a clear view of:
 
