@@ -11,7 +11,7 @@ An end-to-end hospital admissions analysis project using Power BI to evaluate pa
 
 ---
 
-#  📌 Project Overview
+##  📌 Project Overview
 
 Hospital admissions data plays a critical role in understanding operational performance, resource utilization, and financial outcomes. This project analyzes admissions data for a fictional healthcare client, Greenwood Hospital, to identify trends in patient volume, readmissions, and treatment costs.
 
@@ -19,7 +19,7 @@ Using Power BI, the dashboard was designed to simulate an executive-level report
 
 ---
 
-# Business Problem
+## Business Problem
 
 Hospital leadership needs a clear view of:
 
