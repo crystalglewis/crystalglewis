@@ -1,4 +1,4 @@
-# 🏥 Greenwood Hospital Admissions Analysis 2023 | Power BI
+#  🏥 Greenwood Hospital Admissions Analysis 2023 | Power BI
 
 Dataset: Synthetic Hospital Admissions Data (Greenwood Hospital, 2023)
 Total Treatment Revenue: $18.7M
