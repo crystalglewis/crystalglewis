@@ -7,6 +7,7 @@ Tools: Power BI, DAX, Data Modeling, Excel
 Project Summary:
 An end-to-end hospital admissions analysis project using Power BI to evaluate patient volume, readmissions, treatment costs, and department-level performance across a synthetic healthcare dataset.
 
+👉 📸 Greenwood_Hospital_Admissionis_Analysis/Greenwood_Hospital_Admissions_Analysis/Greenwood_Hospital_Admissions_Screenshot.png
 ---
 
 #  📌 Project Overview
