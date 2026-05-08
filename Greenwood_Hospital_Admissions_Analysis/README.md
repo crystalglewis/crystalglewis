@@ -86,6 +86,9 @@ Applied to:
 
 ---
 
+📄 [Full_Dashboard_(PDF_link)](
+
+---
 ##  📊 Key Insights
 - Emergency and Cardiology departments showed the highest readmission rates, indicating potential gaps in discharge planning or follow-up care
 - Oncology had the highest treatment costs and longest length of stay, making it a primary driver of hospital revenue and resource utilization
