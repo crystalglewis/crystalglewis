@@ -58,27 +58,26 @@ Using the **NHIS Healthcare Claims Dataset**, this project analyzed patterns in 
 
 ---
 
-### 💊 Pharmacy Spend Analysis(Project Expansion)
+### 🏥 Greenwood Hospital Admissions Analysis 
 
 🖼️ [View Excel_Dashboard](/Pharmacy_Spend_Analysis/Pharmacy_Spend_Analysis_Screenshot.png) 
 
-To expand the original analysis, a pharmacy dataset was introduced to evaluate prescription cost impact, utilization trends, and potential relationships with high-cost and fraudulent claims. Pharmacy spend analysis using Excel to simulate how health plans and pharmacy benefit teams monitor medication costs, utilization controls, and formulary trends.
+Analyzed hospital admissions data using Power BI to identify trends in patient volume, readmissions, and tratment costs, with a focus on executive- level reporting and decision support.
 
 🔗 [Interactive Version(Google Sheets)](https://docs.google.com/spreadsheets/d/1V6oDT93N4qlQmzPQONpbJAOSgCxUg8GX/edit?usp=sharing&ouid=107080210365207288161&rtpof=true&sd=true) 
 
 📥 [Download Excel File](/Pharmacy_Spend_Analysis/Pharmacy_Spend_Analysis_(1).xlsx)
 
-- This version reflects the final cleaned dataset. Data preparation and transformation were performed in Excel using Power Query prior to upload.
+Dataset: This project uses a synthetic dataset representing hospital admissions for a fictional healthcare client, Greenwood Hospital.
 
-Dataset: Synthetic pharmacy claims dataset generated for portfolio analytics practice using AI-assisted data creation. No real patient or proprietary data was used.
-
-**Tools:** Excel | Power Query | Pivot Tables | Healthcare Analytics
+**Tools:** Power BI | DAX (KPI calculations) | Data Modeling | Data Visualization & Dashnoard Design | Business Analysis
 
 **Key Insights**
 
-- Total pharmacy spend analyzed: $55K
-- Tier 3 medications drove $52K of total spend
-- Brand drugs accounted for 99.8% of spend
+- Emergency and Cardiology departments showed the highest readmission rates, indicating potential gaps in post-discharge care
+- Oncology had the highest treatment costs and longest length of stay, making it a key driver of resource utilization
+- Patient admissions fluctuated throughout the year, highlighting opportunities for improved staffing and capacity planning
+- Revenue was primarily driven by Medicare and private insurance payers
 
   📂 [View Project](Pharmacy_Spend_Analysis/README.md)
 
@@ -105,6 +104,34 @@ Analyzed synthetic healthcare claims data to measure SLA performance, error impa
 
   📂 [View Project](healthcare_claim_operations_analysis)
 
+
+<br>
+
+---
+
+### 💊 Pharmacy Spend Analysis(Project Expansion)
+
+🖼️ [View Excel_Dashboard](/Pharmacy_Spend_Analysis/Pharmacy_Spend_Analysis_Screenshot.png) 
+
+To expand the original analysis, a pharmacy dataset was introduced to evaluate prescription cost impact, utilization trends, and potential relationships with high-cost and fraudulent claims. Pharmacy spend analysis using Excel to simulate how health plans and pharmacy benefit teams monitor medication costs, utilization controls, and formulary trends.
+
+🔗 [Interactive Version(Google Sheets)](https://docs.google.com/spreadsheets/d/1V6oDT93N4qlQmzPQONpbJAOSgCxUg8GX/edit?usp=sharing&ouid=107080210365207288161&rtpof=true&sd=true) 
+
+📥 [Download Excel File](/Pharmacy_Spend_Analysis/Pharmacy_Spend_Analysis_(1).xlsx)
+
+- This version reflects the final cleaned dataset. Data preparation and transformation were performed in Excel using Power Query prior to upload.
+
+Dataset: Synthetic pharmacy claims dataset generated for portfolio analytics practice using AI-assisted data creation. No real patient or proprietary data was used.
+
+**Tools:** Excel | Power Query | Pivot Tables | Healthcare Analytics
+
+**Key Insights**
+
+- Total pharmacy spend analyzed: $55K
+- Tier 3 medications drove $52K of total spend
+- Brand drugs accounted for 99.8% of spend
+
+  📂 [View Project](Pharmacy_Spend_Analysis/README.md)
 
 <br>
 
