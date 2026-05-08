@@ -78,7 +78,7 @@ Dataset: This project uses a synthetic dataset representing hospital admissions 
 - Patient admissions fluctuated throughout the year, highlighting opportunities for improved staffing and capacity planning
 - Revenue was primarily driven by Medicare and private insurance payers
 
-  📂[View_Project](/Greenwood_Hospital_Admissions_Analysis.md)
+  📂[View_Project](/Greenwood_Hospital_Admissions_Analysis/README.md)
 
 <br>
 
