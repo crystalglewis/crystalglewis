@@ -113,7 +113,7 @@ Analyzed synthetic healthcare claims data to measure SLA performance, error impa
 
 🖼️ [View Excel_Dashboard](/Pharmacy_Spend_Analysis/Pharmacy_Spend_Analysis_Screenshot.png) 
 
-To expand the original analysis, a pharmacy dataset was introduced to evaluate prescription cost impact, utilization trends, and potential relationships with high-cost and fraudulent claims. Pharmacy spend analysis using Excel to simulate how health plans and pharmacy benefit teams monitor medication costs, utilization controls, and formulary trends.
+To expand the original analysis (Healthcare Fraud & High-Cost Claims Analysis), a pharmacy dataset was introduced to evaluate prescription cost impact, utilization trends, and potential relationships with high-cost and fraudulent claims. Pharmacy spend analysis using Excel to simulate how health plans and pharmacy benefit teams monitor medication costs, utilization controls, and formulary trends.
 
 🔗 [Interactive Version(Google Sheets)](https://docs.google.com/spreadsheets/d/1V6oDT93N4qlQmzPQONpbJAOSgCxUg8GX/edit?usp=sharing&ouid=107080210365207288161&rtpof=true&sd=true) 
 
