@@ -15,6 +15,8 @@ Hospital admissions data plays a critical role in understanding operational perf
 
 Using Power BI, the dashboard was designed to simulate an executive-level reporting tool that provides leadership with actionable insights into hospital performance. The analysis focuses on how data can support decisions related to patient care, cost management, and operational efficiency.
 
+---
+
 # Business Problem
 
 Hospital leadership needs a clear view of:
