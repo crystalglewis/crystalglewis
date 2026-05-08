@@ -17,6 +17,10 @@ Using Power BI, the dashboard was designed to simulate an executive-level report
 
 ---
 
+##   Key Performance Indicators (KPIs)
+
+ KPI | Value |
+
 # Business Problem
 
 Hospital leadership needs a clear view of:
