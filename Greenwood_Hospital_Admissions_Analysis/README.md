@@ -86,7 +86,7 @@ Applied to:
 
 ---
 
-📄 [Full_Dashboard_(PDF_link)](
+📄 [Full_Dashboard_(PDF_link)](/Greenwood_Hospital_Admissions_Analysis/Greenwood_Hospital_Admissions_Analysis.pdf)
 
 ---
 ##  📊 Key Insights
