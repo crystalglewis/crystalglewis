@@ -17,7 +17,7 @@ Using Power BI, the dashboard was designed to simulate an executive-level report
 
 ---
 
-##   Key Performance Indicators (KPIs)
+##  🗂  Key Performance Indicators (KPIs)
 
  KPI | Value |
 
