@@ -87,6 +87,7 @@ Dataset: This project uses a synthetic dataset representing hospital admissions 
 
 ### 📊 Healthcare Claims Operations Analysis
 🔗 [View Tableau Dashboard](https://public.tableau.com/app/profile/crystal.lewis7397/viz/HealthcareClaimsOperationsAnalysis/HealthcareClaimsOperations)
+
 Analyzed synthetic healthcare claims data to measure SLA performance, error impact, and regional variations in turnaround time.
 
 **Tools: ** SQL | Tableau | Excel
