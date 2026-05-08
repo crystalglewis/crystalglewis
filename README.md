@@ -4,7 +4,7 @@ Healthcare Data Analyst with 10+ years of healthcare claims and operations exper
 
 ## About Me
 
-Hello! I'm **Crystal Lewis**, a data-focused healthcare professional transitioning into a **Healthcare Data Analyst role**. With over a decade of experience in **healthcare claims analysis, provider relations, and healthcare operations**, I bring strong domain expertise and a deep understanding of **claims processing workflows, provider interactions, and healthcare system operations**.
+Hello! I'm **Crystal Lewis**, a data-focused healthcare Analyst transitioning into a **Healthcare Data Analyst role**. With over a decade of experience in **healthcare claims analysis, provider relations, and healthcare operations**, I bring strong domain expertise and a deep understanding of **claims processing workflows, provider interactions, and healthcare system operations**.
 
 To expand my technical skillset, I completed a **Data Analytics Certification through Thinkful**, where I gained hands-on experience using **SQL, Tableau, Python, and Excel** to analyze real-world datasets and uncover actionable insights.
 
