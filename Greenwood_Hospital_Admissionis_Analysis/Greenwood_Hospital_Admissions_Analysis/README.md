@@ -21,10 +21,10 @@ Using Power BI, the dashboard was designed to simulate an executive-level report
 
 Hospital leadership needs a clear view of:
 
-Patient admission trends over time
-Department-level capacity and utilization
-Drivers of treatment costs
-Readmission patterns that may indicate quality issues
+- Patient admission trends over time
+- Department-level capacity and utilization
+- Drivers of treatment costs
+- Readmission patterns that may indicate quality issues
 
 Without a centralized dashboard, these insights are difficult to track and act on.
 
@@ -38,7 +38,7 @@ Without a centralized dashboard, these insights are difficult to track and act o
  | Total Treatment Revenue | $18.7M |
  | Avg Length of Stay | 4.11 Days |
  | 30-Day Readmission Rate | 7.7% |
- | Avg Patient Satisfactistion | 3.80 |
+ | Avg Patient Satisfaction | 3.80 |
  | Highest Cost Department | Oncology |
  | Highest Readmissions | Emergency, Cardiology |
 
@@ -57,7 +57,7 @@ Key preparation steps included:
 - Structuring relationships between patient, department, and insurance data
 - Preparing fields for time-based trend analysis and department-level aggregation
 
-The dataset used in this project is synthetic and intended for analytical demonstration purposes only.
+Note: The dataset used in this project is synthetic and intended for analytical demonstration purposes only.
 
 ---
 
