@@ -64,9 +64,8 @@ Using the **NHIS Healthcare Claims Dataset**, this project analyzed patterns in 
 
 Analyzed hospital admissions data using Power BI to identify trends in patient volume, readmissions, and tratment costs, with a focus on executive- level reporting and decision support.
 
-🔗 [Interactive Version(Google Sheets)](https://docs.google.com/spreadsheets/d/1V6oDT93N4qlQmzPQONpbJAOSgCxUg8GX/edit?usp=sharing&ouid=107080210365207288161&rtpof=true&sd=true) 
+📄 [Full_Dashboard_(PDF_link)](/Greenwood_Hospital_Admissions_Analysis/Greenwood_Hospital_Admissions_Analysis.pdf)
 
-📥 [Download Excel File](/Pharmacy_Spend_Analysis/Pharmacy_Spend_Analysis_(1).xlsx)
 
 Dataset: This project uses a synthetic dataset representing hospital admissions for a fictional healthcare client, Greenwood Hospital.
 
