@@ -17,10 +17,6 @@ Using Power BI, the dashboard was designed to simulate an executive-level report
 
 ---
 
-##  🗂  Key Performance Indicators (KPIs)
-
- KPI | Value |
-
 # Business Problem
 
 Hospital leadership needs a clear view of:
@@ -32,44 +28,68 @@ Readmission patterns that may indicate quality issues
 
 Without a centralized dashboard, these insights are difficult to track and act on.
 
-Tools & Skills Used
+---
+
+##  🗂  Key Performance Indicators (KPIs)
+
+ KPI | Value |
+ | ---- | ----- |
+ | Total Patients Admitted | 1,000 |
+ | Total Treatment Revenue | $18.7M |
+ | Avg Length of Stay | 4.11 Days |
+ | 30-Day Readmission Rate | 7.7% |
+ | Avg Patient Satisfactistion | 3.80 |
+ | Highest Cost Department | Oncology |
+ | Highest Readmissions | Emergency, Cardiology |
+
+ 
+ ##  Data Preparation
+
+The dataset was prepared and modeled within Power BI to support reporting and analysis.
+
+Key preparation steps included:
+
+- Importing and validating structured admissions data
+- Creating calculated measures using DAX for:
+   - Total Revenue
+   - Average Length of Stay
+   - Readmission Rate
+- Structuring relationships between patient, department, and insurance data
+- Preparing fields for time-based trend analysis and department-level aggregation
+
+The dataset used in this project is synthetic and intended for analytical demonstration purposes only.
+
+---
+
+ ##  🛠 Tools & Skills Used
 Power BI
-DAX (for KPI calculations)
-Data modeling
-Data visualization and dashboard design
-Business analysis and storytelling
-Key Metrics
-Total Patients Admitted: 1,000
-Total Treatment Revenue: $18.73M
-Average Length of Stay: 4.11 days
-30-Day Readmission Rate: 7.7%
-Average Patient Satisfaction: 3.8
-Dashboard Features
-Interactive Age Group slicer for filtering
-KPI cards for quick executive insights
-Trend analysis of admissions over time
-Department-level views for:
-Bed occupancy
-Readmissions
-Treatment costs
-Insurance breakdown of treatment revenue
-Key Insights
-Emergency and Cardiology departments show the highest readmission counts, which may indicate opportunities for improved discharge planning or follow-up care.
-Oncology has the highest total treatment cost and longest length of stay, suggesting it is a major driver of overall hospital revenue and resource utilization.
-Admissions fluctuate throughout the year, with noticeable peaks and dips that could impact staffing and resource planning.
-Private insurance and Medicare account for the majority of treatment revenue, which is important for financial forecasting and contract strategy.
-Business Recommendations
-Investigate readmission drivers in high-volume departments like Emergency and Cardiology
-Evaluate resource allocation for high-cost departments such as Oncology
-Use admission trends to improve staffing and capacity planning
-Monitor payer mix to support financial strategy and reimbursement optimization
-How to Use This Dashboard
+Used for: 
+- Data modeling and relationship building
+- Dashboard design and layout
+- Interactive reporting and filtering (slicers)
+  
+DAX (Data Analysis Expressions)
+Used for:
+- KPI calculations (revenue, averages, readmission rate)
+- Aggregations and metric standardization
 
-This dashboard is designed for hospital leadership, operations teams, and analysts to:
+Excel
+Used for:
+- Initial data review and validation
 
-Monitor performance across departments
-Identify trends and potential issues
-Support data-driven decision-making
-Project Files
-Power BI Dashboard (PBIX / PDF)
-Screenshots included for quick viewing
+Business Analysis
+Applied to:
+- Identify trends in admissions, cost, and utilization
+- Translate data into actionable insights for decision making
+
+---
+
+##  📊 Key Insights
+- Emergency and Cardiology departments showed the highest readmission rates, indicating potential gaps in discharge planning or follow-up care
+- Oncology had the highest treatment costs and longest length of stay, making it a primary driver of hospital revenue and resource utilization
+- Patient admissions fluctuated throughout the year, suggesting opportunities for improved staffing and capacity planning
+- Medicare and private insurance accounted for the majority of treatment revenue, highlighting key payer segments
+
+---
+
+
