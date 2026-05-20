@@ -49,11 +49,11 @@ I enjoy translating complex datasets into clear, actionable insights that suppor
 Using a synthetic **NHIS Healthcare Claims Dataset** , this project analyzed fraudulent billing activity, high-cost claims and demographic risk patterns to uncover potential financial exposure and payment integrity concerns within healthcare claims data.
 
 **Tools Used:** SQL • Tableau • Excel
--
+
 
 **Business Question**
 
-- As healthcare costs and fraudulent billing activity continue to increase, where are the largest drivers of high cost claims and fraud exposure occurring, and which demographic trends may contribute to increased financial risk?
+As healthcare costs and fraudulent billing activity continue to increase, where are the largest drivers of high cost claims and fraud exposure occurring, and which demographic trends may contribute to increased financial risk?
 
 
 **Methods & Skills Used**
