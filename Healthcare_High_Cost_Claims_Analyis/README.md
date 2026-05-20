@@ -1,7 +1,8 @@
-# Healthcare Fraud & High-Cost Claims Analysis | SQL + Tableau
+# Healthcare Fraud & High-Cost Claims Analysis | SQL • Tableau
 Dataset: Synthetic NHIS Healthcare Claims (2024)
 Total Billed Amount: $476.5M
-Tools: PostgreSQL (SQL), Tableau, Excel
+Tools: SQL (PostgreSQL) • Tableau • Excel
+,
 Project Summary:
 An end-to-end healthcare claims analytics project using SQL and Tableau to identify fraud patterns, high-cost claims, and demographic risk factors across a synthetic claims dataset.
 
