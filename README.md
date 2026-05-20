@@ -81,6 +81,7 @@ As healthcare costs and fraudulent billing activity continue to increase, where 
 - Analysis was performed using a synthetic healthcare claims dataset.
 - Fraud indicators were predefined within the dataset.
 - Findings are intended for analytical and portfolio  demonstration purposes.
+  
 
   📂 [View Project](Healthcare_High_Cost_Claims_Analyis)
 
