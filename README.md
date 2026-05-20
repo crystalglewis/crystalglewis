@@ -46,15 +46,40 @@ I enjoy translating complex datasets into clear, actionable insights that suppor
 
 🔗 [View Tableau Dashboard](https://public.tableau.com/app/profile/crystal.lewis7397/viz/HealthcareFraudClaimsAnalysisDashboard/HealthcareFraudHigh-CostClaimsAnalysis?publish=yes)
 
-Using the **NHIS Healthcare Claims Dataset**, this project analyzed patterns in fraudulent and high-cost claims to uncover financial risks and demographic trends.
+Using a synthetic **NHIS Healthcare Claims Dataset** , this project analyzed fraudulent billing activity, high-cost claims and demographic risk patterns to uncover potential financial exposure and payment integrity concerns within healthcare claims data.
 
-**Tools:** SQL • Tableau
+**Tools Used:** SQL • Tableau • Excel
 
-**Key Insights**
+**Business Question**
 
+- As healthcare costs and fraudulent billing activity continue to increase, where are the largest drivers of high cost claims and fraud exposure occurring, and which demographic trends may contribute to increased financial risk?
+
+
+**Methods & Skills Used**
+- SQL data cleaning and transformation
+- Fraud analysis and KPI reporting
+- Healthcare claims analysis
+- Data aggregation and visualization
+- Dashboard development in Tableau
+  
+
+**Key Findings**
 - Fraudulent claims resulted in losses exceeding **$248M**
-- The **65+ age group** generated the highest number of high-cost and fraudulent claims
-- **Epilepsy surgery, infertility treatment, and cosmetic surgery** showed the highest billed amounts
+- Age group **65+** age group generated the highest share of high cose and fraudulent claims.
+- Cosmetic surgery and infertility treatment showed the highest fraud risk.
+- Phantom billing and fake treatments were the most common fraud types identified.
+
+
+**Business Recommendations**
+- Increase fraud monitoring within high risk diagnosis categories.
+- Strengthen billing validation processes for common fraud patterns.
+- Expand payment integrity reporting to support earlier fraud detection.
+
+
+**Assumption & Limitations**
+- Analysis was performed using a synthetic healthcare claims dataset
+- Fraud indicators were predefined within the dataset.
+- Findings are intended for analytical and portfolio  demonstration purposes.
 
   📂 [View Project](Healthcare_High_Cost_Claims_Analyis)
 
