@@ -1,25 +1,29 @@
 # Welcome to My Data Analytics Portfolio! 👋
 
-Healthcare Data Analyst with 10+ years of healthcare claims and operations experience, specializing in SQL analysis, healthcare data insights, and fraud detection analytics.
+Healthcare Analyst with 10+ years of healthcare operations, reimbursement analysis, and data driven problem solving using SQL, Tableau, Power BI, and Excel. 
 
 ## About Me
 
-Hello! I'm **Crystal Lewis**, a data-focused healthcare Analyst transitioning into a **Healthcare Data Analyst role**. With over a decade of experience in **healthcare claims analysis, provider relations, and healthcare operations**, I bring strong domain expertise and a deep understanding of **claims processing workflows, provider interactions, and healthcare system operations**.
+Hello! I'm **Crystal Lewis**, Healthcare Analyst transitioning into **Healthcare Data Analytics**. With over a 10 years of experience in **healthcare claims analysis, provider relations, reimbursement analysis and operational problem solving**. 
 
-To expand my technical skillset, I completed a **Data Analytics Certification through Thinkful**, where I gained hands-on experience using **SQL, Tableau, Python, and Excel** to analyze real-world datasets and uncover actionable insights.
+To strengthen my technical skills, I completed a **Data Analytics Certification through Thinkful**, where I gained hands on experience using **SQL, Tableau, Python, and Excel** to analyze real world datasets and build analytical projects from start to finish. I also completed the Data Analytics Simplified program, where I expanded my skills in SQL, Excel, and Power BI through business focused analytics training and dashboard development.
 
-I also completed the Data Analytics Simplified program, where I strengthened my skills in SQL, Excel, and Power BI, working within a Microsoft-based environment to build dashboards, write queries, and apply business-focused analysis.
+My portfolio focuses heavily on healthcare analytics because it allows me to combine technical analysis with the operational knowledge I've built throughout my career. Many of the projects below explore areas such as healthcare claims performance, fraud trends, pharmacy spend, hospital operations, and business reporting.
 
-My goal is to combine healthcare domain expertise with data analytics to identify trends, improve operational efficiency, and support smarter decision-making across healthcare organizations.
+I enjoy translating complex datasets into clear, actionable insights that support operational efficiency, financial performance, and better decision making.
 
 ---
 
-## Areas of Interest
+## Areas of Focus
 
-- **Healthcare Claims Analysis** – Identifying trends, uncovering inefficiencies, and reducing cost drivers.
-- **Healthcare Data Analytics** – Using SQL, Python, Tableau, and Excel to analyze healthcare datasets.
-- **Data Storytelling** – Turning complex datasets into clear, actionable insights.
-- **Operational Improvement** – Applying analytics to improve healthcare workflows and business performance.
+- **Healthcare Claims Analytics** 
+- **Healthcare Operations and Process Improvement** 
+- **Fraud and High Cost Claims Analysis** 
+- **Pharmacy Spend Analytics**
+- **Data Visualization and Dashboard Design**
+- **SQL Based Data Investigation**
+- **Business Intelligence and Reporting**
+- **Data Storytelling**
 
 ---
 
@@ -27,11 +31,11 @@ My goal is to combine healthcare domain expertise with data analytics to identif
 
 | Category | Tools & Techniques |
 |--------|----------------|
-| **Programming** | Python (Pandas, NumPy, Matplotlib, Seaborn), SQL (MySQL, PostgreSQL, SQLite) |
-| **Excel & Automation** | Advanced formulas, Pivot Tables, Power Query, VBA |
-| **Visualization** | Tableau, Power BI, Matplotlib, Seaborn |
-| **Statistical Analysis** | Hypothesis testing, regression analysis, trend analysis |
-| **Healthcare Knowledge** | CPT / HCPCS / ICD-10 & ICD-11 codes, LOINC, healthcare claims processing |
+| **Programming & Querying** | SQL (PostgreSQL, MySQL, SQLite) Python (Pandas, NumPy, Matplotlib) |
+| **Visualization & BI** | Tableau, Power BI, Excel, Matplotlib |
+| **Excel & Data Preparation** | Pivot Tables, Power Query, XLOOKUP, Advanced formulas, VBA |
+| **Analytics Techniques** | Trend Analysis, KPI Reporting, Data Cleaning, Aggregations, Business Analysis |
+| **Healthcare Knowledge** | Healthcare Claims, CPT / HCPCS / ICD-10 & ICD-11 codes, LOINC, Reimbursement Analysis, Operational Workflows |
 
 ---
 
