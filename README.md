@@ -49,6 +49,7 @@ I enjoy translating complex datasets into clear, actionable insights that suppor
 Using a synthetic **NHIS Healthcare Claims Dataset** , this project analyzed fraudulent billing activity, high-cost claims and demographic risk patterns to uncover potential financial exposure and payment integrity concerns within healthcare claims data.
 
 **Tools Used:** SQL • Tableau • Excel
+-
 
 **Business Question**
 
@@ -77,7 +78,7 @@ Using a synthetic **NHIS Healthcare Claims Dataset** , this project analyzed fra
 
 
 **Assumption & Limitations**
-- Analysis was performed using a synthetic healthcare claims dataset
+- Analysis was performed using a synthetic healthcare claims dataset.
 - Fraud indicators were predefined within the dataset.
 - Findings are intended for analytical and portfolio  demonstration purposes.
 
