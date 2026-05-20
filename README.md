@@ -48,15 +48,15 @@ I enjoy translating complex datasets into clear, actionable insights that suppor
 
 Using a synthetic **NHIS Healthcare Claims Dataset** , this project analyzed fraudulent billing activity, high-cost claims and demographic risk patterns to uncover potential financial exposure and payment integrity concerns within healthcare claims data.
 
-**Tools Used:** SQL • Tableau • Excel
+####**Tools Used:** SQL • Tableau • Excel
 
 
-**Business Question**
+####**Business Question**
 
 As healthcare costs and fraudulent billing activity continue to increase, where are the largest drivers of high cost claims and fraud exposure occurring, and which demographic trends may contribute to increased financial risk?
 
 
-**Methods & Skills Used**
+####**Methods & Skills Used**
 - SQL data cleaning and transformation
 - Fraud analysis and KPI reporting
 - Healthcare claims analysis
@@ -64,20 +64,20 @@ As healthcare costs and fraudulent billing activity continue to increase, where 
 - Dashboard development in Tableau
   
 
-**Key Findings**
+####**Key Findings**
 - Fraudulent claims resulted in losses exceeding **$248M**
 - The **65+** age group generated the highest share of high cost and fraudulent claims.
 - Cosmetic surgery and infertility treatment showed the highest fraud exposure.
 - Phantom billing and fake treatments were the most common fraud types identified.
 
 
-**Business Recommendations**
+####**Business Recommendations**
 - Increase fraud monitoring within high risk diagnosis categories.
 - Strengthen billing validation processes for common fraud patterns.
 - Expand payment integrity reporting to support earlier fraud detection.
 
 
-**Assumptions & Limitations**
+####**Assumptions & Limitations**
 - Analysis was performed using a synthetic healthcare claims dataset.
 - Fraud indicators were predefined within the dataset.
 - Findings are intended for analytical and portfolio  demonstration purposes.
