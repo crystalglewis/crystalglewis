@@ -66,8 +66,8 @@ As healthcare costs and fraudulent billing activity continue to increase, where 
 
 **Key Findings**
 - Fraudulent claims resulted in losses exceeding **$248M**
-- Age group **65+** age group generated the highest share of high cose and fraudulent claims.
-- Cosmetic surgery and infertility treatment showed the highest fraud risk.
+- The **65+** age group generated the highest share of high cost and fraudulent claims.
+- Cosmetic surgery and infertility treatment showed the highest fraud exposure.
 - Phantom billing and fake treatments were the most common fraud types identified.
 
 
@@ -77,13 +77,13 @@ As healthcare costs and fraudulent billing activity continue to increase, where 
 - Expand payment integrity reporting to support earlier fraud detection.
 
 
-**Assumption & Limitations**
+**Assumptions & Limitations**
 - Analysis was performed using a synthetic healthcare claims dataset.
 - Fraud indicators were predefined within the dataset.
 - Findings are intended for analytical and portfolio  demonstration purposes.
   
 
-  📂 [View Project](Healthcare_High_Cost_Claims_Analyis)
+📂 [View Project](Healthcare_High_Cost_Claims_Analyis)
 
 <br>
 
