@@ -2,27 +2,37 @@
 Dataset: Synthetic NHIS Healthcare Claims (2024)
 Total Billed Amount: $476.5M
 Tools: SQL (PostgreSQL) • Tableau • Excel
-,
-Project Summary:
-An end-to-end healthcare claims analytics project using SQL and Tableau to identify fraud patterns, high-cost claims, and demographic risk factors across a synthetic claims dataset.
+
+
+## 📌 Project Overview:
+Healthcare fraud and high cost claims create significant financial risk for insurers and healthcare organizations. This project analyzes healthcare claims data to identify fraud patterns, high cost claim drivers, and demographic trends that may contribute to financial loss.
+
+Using SQL for data preparation and analysis and Tableau for visualization, this project explores how fraud varies across diagnosis categories, fraud types, and patient age groups. The goal of the analysis was to demonstrate how healthcare claims data can support fraud detection efforts, payment integrity monitoring, and cost containment strategies.
+
 
 ---
 
-#  📌 Project Overview
-Healthcare fraud and high-cost claims create significant financial risk for insurers and healthcare systems. This project analyzes healthcare claims data to identify fraud patterns, high-cost claim drivers, and demographic trends that may contribute to financial loss.
-Using SQL for data preparation and aggregation and Tableau for visualization, the analysis explores how fraud varies across diagnosis categories, fraud types, and patient age groups.
-The objective of this project is to demonstrate how healthcare claims data can be used to support fraud detection, payment integrity monitoring, and cost management decisions.
+##  🎯Business Question
+This analysis focused on answering the following business questions:
+- What percentage of total billed claims were identified as fraudulent?
+- Which diagnosis categories generated the highest fraud exposure?
+- Which age groups produced the largest share of high cost claims?
+- How did fraud trends vary by fraud type and demographic group?
+- How can healthcare claims analytics support payment integrity decision making?
+
 
 ---
 
-## 🎯 Objectives
-This analysis focuses on answering four key questions:
-1.	What percentage of total billed claims are fraudulent?
-2.	Which diagnosis categories drive the highest fraud risk?
-3.	Which age groups generate the largest high-cost claims?
-4.	How does fraud vary by age group and fraud type?
+## Methods & Skills Used
+Tools:
+- SQL (PostgreSQL)
+- Tableau
+- Excel
 
 ---
+
+## Skills Applied
+
 
 ##  🗂 Key Performance Indicators (KPIs)
  KPI | Value |
