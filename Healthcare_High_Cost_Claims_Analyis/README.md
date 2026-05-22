@@ -30,7 +30,7 @@ This analysis focused on identifying:
 | Total Claims Billed | $476.5M |
 | Fraudulent Claim Amount | $248M |
 | Fraud Percentage | 52% |
-| Largest High-Cost Claims Segment | $51M (Age 65+) |
+| Largest High Cost Claims Segment | $51M (Age 65+) |
 | Highest Fraud Age Group | 65+ (54%) |
 | Top Fraud Drivers | Cosmetic Surgery, Infertility Treatment |
 | Largest Fraud Types | Phantom Billing, Fake Treatments |
