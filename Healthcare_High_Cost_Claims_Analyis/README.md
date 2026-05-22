@@ -45,7 +45,7 @@ Key preparation steps included:
 - Importing the claims CSV dataset into PostgreSQL
 - Creating indicator flags for:
   -	Fraudulent Claims
-  -	High-Cost Claims (>$10,000)
+  -	High cost claims above $10,000
   
  Segmenting members into age groups:
   - 0–17
