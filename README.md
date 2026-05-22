@@ -100,7 +100,7 @@ Using a synthetic hospital admissions dataset for a fictional healthcare client,
 **Tools:** Power BI | DAX (KPI calculations) | Data Modeling | Data Visualization & Dashnoard Design | Business Analysis
 
 #### Business Question
-How can hospital admissions data help identify readmission trends, resource utilization patterns, and operational areas impacting hospital performance?
+Hospital leadership is experiencing increasing pressure related to readmissions, rising treatment costs, and resource utilization. Which departments, utilization trends, and operational patterns are contributing most to hospital performance and financial strain?
 
 
 #### Methods & Skills Used
