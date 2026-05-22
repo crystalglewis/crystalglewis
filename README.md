@@ -139,21 +139,50 @@ How can hospital admissions data help identify readmission trends, resource util
 ### 📊 Healthcare Claims Operations Analysis
 🔗 [View Tableau Dashboard](https://public.tableau.com/app/profile/crystal.lewis7397/viz/HealthcareClaimsOperationsAnalysis/HealthcareClaimsOperations)
 
-Analyzed synthetic healthcare claims data to measure SLA performance, error impact, and regional variations in turnaround time.
+Using a synthetic healthcare claims operations dataset, this project analyzed SLA performance, claims processing trends, queue performance, and error related processing delays to identify operational inefficiencies impacting turnaround times and workflow performance.
 
-**Tools: ** SQL | Tableau | Excel
+Tools Used: SQL | Tableau | Excel
+
+
+### Business Question
+There are significant delays and performance gaps within the healthcare claims operations cycle. Which operational queues, claim types, and processing errors are contributing most to SLA performance gaps and delays in healthcare claims processing?
+
+### Methods & Skills Used
+- SQL data analysis and aggregation
+- SLA and operational performance reporting
+- Claims workflow analysis
+- Tableau dashboard development
+- KPI monitoring and trend analysis
+
 
 ### 📊 Key Insights
 
 - Overall SLA performance is stable but varies significantly by claim type.
-
 - DOB mismatch and Out-of-Network authorization errors drive longer turnaround times.
-
 - The Appeals queue consistently underperforms, while Intake shows the strongest SLA performance.
+- The Midwest region experiences slower turnaround times compared to others.
 
-- The Midwest region experiences slower turnaround times compared to others. 
 
-  📂 [View Project](healthcare_claim_operations_analysis)
+### Analyst Interpretation
+
+The analysis suggests that claims turnaround performance is heavily impacted by operational queue efficiency and recurring processing errors.
+
+Queues with lower SLA performance may require workflow optimization and additional operational support, while recurring error categories may indicate opportunities to strengthen claims validation processes and workflow standardization.
+
+
+### Strategic Recommendations
+- Prioritize process improvement efforts within underperforming operational queues.
+- Strengthen validation controls for recurring error categories impacting turnaround times.
+- Expand SLA monitoring dashboards to support proactive operational management.
+- Use regional trend analysis to identify workflow inconsistencies and staffing needs.
+
+  
+### Assumptions & Limitations
+- Analysis was performed using a synthetic healthcare claims operations dataset.
+- SLA performance metrics were evaluated using historical workflow data.
+- Additional staffing, inventory, and productivity metrics could provide deeper operational insight.
+
+📂 [View Project](healthcare_claim_operations_analysis)
 
 
 <br>
