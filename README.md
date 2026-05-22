@@ -1,4 +1,4 @@
-# Welcome to My Data Analytics Portfolio! 👋
+# Welcome to My Data Analytics Portfolio! 👋🏾
 
 Healthcare Analyst with 10+ years of healthcare operations, reimbursement analysis, and data driven problem solving using SQL, Tableau, Power BI, and Excel. 
 
