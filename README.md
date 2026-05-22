@@ -71,7 +71,7 @@ As healthcare costs and fraudulent billing activity continue to increase, where 
 - Phantom billing and fake treatments were the most common fraud types identified.
 
 
-#### Business Recommendations
+#### Strategic Recommendations
 - Increase fraud monitoring within high risk diagnosis categories.
 - Strengthen billing validation processes for common fraud patterns.
 - Expand payment integrity reporting to support earlier fraud detection.
@@ -93,23 +93,43 @@ As healthcare costs and fraudulent billing activity continue to increase, where 
 
 📸 [View_Dashboard_Screenshot](/Greenwood_Hospital_Admissions_Analysis/Greenwood_Hospital_Admissions_Screenshot.png)
 
-Analyzed hospital admissions data using Power BI to identify trends in patient volume, readmissions, and tratment costs, with a focus on executive- level reporting and decision support.
-
 📄 [Full_Dashboard_(PDF_link)](/Greenwood_Hospital_Admissions_Analysis/Greenwood_Hospital_Admissions_Analysis.pdf)
 
-
-Dataset: This project uses a synthetic dataset representing hospital admissions for a fictional healthcare client, Greenwood Hospital.
+Using a synthetic hospital admissions dataset for a fictional healthcare client, Greenwood Hospital, this project analyzed patient admissions, readmission trends, treatment costs, and payer utilization patterns to support operational reporting and executive level decision making.
 
 **Tools:** Power BI | DAX (KPI calculations) | Data Modeling | Data Visualization & Dashnoard Design | Business Analysis
 
-**Key Insights**
+#### Business Question
+How can hospital admissions data help identify readmission trends, resource utilization patterns, and operational areas impacting hospital performance?
 
-- Emergency and Cardiology departments showed the highest readmission rates, indicating potential gaps in post-discharge care
-- Oncology had the highest treatment costs and longest length of stay, making it a key driver of resource utilization
-- Patient admissions fluctuated throughout the year, highlighting opportunities for improved staffing and capacity planning
-- Revenue was primarily driven by Medicare and private insurance payers
 
-  📂[View_Project](/Greenwood_Hospital_Admissions_Analysis/README.md)
+#### Methods & Skills Used
+- Power BI dashboard development
+- DAX KPI calculations
+- Readmission and utilization analysis
+- Hospital operations reporting
+- Data visualization and executive reporting
+
+  
+#### Key Insights
+- Emergency and Cardiology departments showed the highest readmission rates.
+- Oncology generated the highest treatment costs and longest average length of stay.
+- Patient admissions fluctuated throughout the year, highlighting staffing and capacity planning opportunities.
+- Medicare and private insurance payers generated the highest revenue contribution.
+
+
+#### Strategic Recommendations
+- Strengthen post discharge follow up processes for departments with elevated readmission rates.
+- Monitor Oncology utilization trends to support operational planning and cost management.
+- Use admissions trend reporting to improve staffing and resource allocation strategies.
+
+
+#### Assumptions & Limitations
+- Analysis was performed using a synthetic hospital admissions dataset.
+- Additional patient outcome and clinical severity data could provide deeper operational insight.
+
+
+📂[View_Project](/Greenwood_Hospital_Admissions_Analysis/README.md)
 
 <br>
 
