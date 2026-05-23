@@ -64,7 +64,7 @@ As healthcare costs and fraudulent billing activity continue to increase, where 
 - Dashboard development in Tableau
   
 
-#### Key Findings
+#### 📊 Key Insights
 - Fraudulent claims resulted in losses exceeding **$248M**
 - The **65+** age group generated the highest share of high cost and fraudulent claims.
 - Cosmetic surgery and infertility treatment showed the highest fraud exposure.
@@ -111,7 +111,7 @@ Hospital leadership is experiencing increasing pressure related to readmissions,
 - Data visualization and executive reporting
 
   
-#### Key Insights
+#### 📊 Key Insights
 - Emergency and Cardiology departments showed the highest readmission rates.
 - Oncology generated the highest treatment costs and longest average length of stay.
 - Patient admissions fluctuated throughout the year, highlighting staffing and capacity planning opportunities.
