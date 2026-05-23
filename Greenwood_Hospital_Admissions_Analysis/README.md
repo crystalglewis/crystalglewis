@@ -20,9 +20,9 @@ Using Power BI, the dashboard was designed to simulate an executive-level report
 
 ## 🎯 Business Question
 
-How can hospital admissions data be used to identify readmission trends, resource utilization patterns, and operational areas impacting hospital performance and financial planning?
+Hospital leadership is experiencing increasing pressure related to readmissions, rising treatment costs, and resource utilization. Which departments, utilization trends, and operational patterns are contributing most to hospital performance and financial strain?
 
-Hospital leadership needs a clear view of:
+Leadership needs a clear view of:
 
 - patient admission trends over time
 - departments with elevated readmission activity
