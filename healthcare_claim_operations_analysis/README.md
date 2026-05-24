@@ -1,5 +1,10 @@
 # Healthcare Claims Operations Analysis
 
+Dataset: Synthetic Healthcare Claims Operations Dataset
+Tools Used: SQL, Tableau, Excel
+
+🔗 [View Tableau Dashboard](https://public.tableau.com/app/profile/crystal.lewis7397/viz/HealthcareClaimsOperationsAnalysis/HealthcareClaimsOperations)
+
 ## Project Overview
 
 This project analyzes healthcare claims operations data to evaluate **SLA performance, error drivers, and operational trends across regions and claim types**.
